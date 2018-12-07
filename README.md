@@ -21,7 +21,7 @@
 
 ##### Neil:
 
-- Tutorial beers in neo4J ([fun with beers](https://neo4j.com/blog/fun-with-beer-and-graphs/))
+- Tutorial fun with beer in neo4J ([fun with beers](https://neo4j.com/blog/fun-with-beer-and-graphs/))
 
 ##### Tijmen:
 
