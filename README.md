@@ -26,7 +26,7 @@
 ##### Tijmen:
 
 - Onderzoek hosting neo4j-database (grapheneDB) / Neo4j-server / Docker (in orde host online)
-  - http://beerless.hopto.org
+  - http://beerless.hopto.org:7474
 
 
 
