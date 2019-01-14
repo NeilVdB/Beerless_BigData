@@ -1,0 +1,1994 @@
+;Bier;Soort;Alcohol;Brouwerij
+0;3 Schténg;hogegisting;6%;Brasserie Grain d'Orge
+1;IV Saison;saison;6,5%;Brasserie de Jandrain-Jandrenouille
+2;V Cense;hogegisting;7,5%;Brasserie de Jandrain-Jandrenouille
+3;VI Wheat;hogegisting;6%;Brasserie de Jandrain-Jandrenouille
+4;7PK;hogegisting;7%;Brouwerij Anders!
+5;26.2 M;hogegisting;6%;Brasserie L'Échappée Belle
+6;28 Brett;versneden,amber;7,5%;De Proefbrouwerij voor Caulier Developpement
+7;28 Pale Ale;blond;5%;De Proefbrouwerij voor Caulier Developpement
+8;28 Triple;abdijbier;9%;Brasserie De Proefbrouwerij
+9;44 Blanche;hogegisting;5,5%;Brasserie de La Gleize
+10;44 Blonde;hogegisting;5,5%;Brasserie de La Gleize
+11;44 Brune;hogegisting;5,5%;Brasserie de la Gleize
+12;44 Brune Cuvée Spéciale;hogegisting;6,5%;Brasserie de la Gleize
+13;44 Christmas;hogegisting;6%;Brasserie de la Gleize
+14;44 Nuts Ambrée;hogegisting;6%;Brasserie de la Gleize
+15;44 Tiger Triple;hogegisting;8%;Brasserie de la Gleize
+16;365 Pils Bière;pils;4,7%;Brouwerij Haacht
+17;421 Pintje;hogegisting;4,6%;Brasserie Millevertus
+18;400-Quadrigenti;hogegisting;5,6%;'t Hofbrouwerijke
+19;1414 Ambrosius;hogegisting;5%;Brouwerij Anders!
+20;1815;hogegisting;7%;Brasserie des Fagnes
+21;1842 by Caulier;hogegisting;9%;Brasserie De Proefbrouwerij
+22;2290 Vorselaar;hogegisting;6%;Brouwerij Anders!
+23;Aardmonnik;oudbruin;8%;De Struise Brouwers
+24;Aarschotse Bruine;bruin;6%;Stadsbrouwerij Aarschot
+25;Abbay d'Aulne Blonde des Pères 6;abdijbier,blond;6%;Brasserie Val de Sambre
+26;Abbay d'Aulne Brune des Pères 6;abdijbier,bruin;6%;Brasserie Val de Sambre
+27;Abbay d'Aulne Super Noël 9;abdijbier,kerstbier;9%;Brasserie Val de Sambre
+28;Abbay d'Aulne Triple Blonde;abdijbier,tripel;8%;Brasserie Val de Sambre
+29;Abbay d'Aulne Triple Brune;abdijbier,tripel;8%;Brasserie Val de Sambre
+30;Abbay d'Aulne Val de Sambre;abdijbier,amber;6,4%;Brasserie Val de Sambre
+31;Abbaye de Bonne-Espérance;abdijbier;7,8%;Brouwerij Lefebvre
+32;Abbaye de Forest;abdijbier;6,5%;Brasserie de Silly
+33;Abbaye de la Thure;abdijbier;10%;Brasserie Brootcoorens
+34;Abbaye de Saint-Martin Blonde;abdijbier;7%;Brasserie de Brunehaut
+35;Abbaye de Saint-Martin Brune;abdijbier;8%;Brasserie de Brunehaut
+36;Abbaye de Saint-Martin Cuvée de Noël;abdijbier;8,5%;Brasserie de Brunehaut
+37;Abbaye de Saint-Martin Triple;abdijbier;9%;Brasserie de Brunehaut
+38;Abbaye de Oudkerken;abdijbier;6,2%;Brouwerij Lefebvre
+39;Abbaye des Rocs Blonde;abdijbier,hogegisting;7,5%;Brasserie de l'Abbaye des Rocs
+40;Abbaye des Rocs Brune;abdijbierbruin;9%;Brasserie de l'Abbaye des Rocs
+41;Abbaye des Rocs Grand Cru;abdijbierale;9,5%;Brasserie de l'Abbaye des Rocs
+42;Abbaye des Rocs Spéciale Noël;abdijbier,kerstbier;9%;Brasserie de l'Abbaye des Rocs
+43;Abdis Blond;blond;6,5%;Brouwerij Riva
+44;Abdis Bruin;bruin;6,5%;Brouwerij Riva
+45;Abdis Tripel;tripel;8,2%;Brouwerij Riva
+46;Abdij van Roosenberg Dubbel;dubbel;7%;Brouwerij Van Steenberge
+47;Abdij van Roosenberg Tripel;tripel;9%;Brouwerij Van Steenberge
+48;Achel 5 Blond;trappist;5%;Achelse Kluis
+49;Achel 5 Bruin;trappist,bruin;5%;Achelse Kluis
+50;Achel 7;trappist;7%;Achelse Kluis
+51;Achel 6;trappist;6%;Achelse Kluis
+52;Achel 8 Blond;trappist,blond;8%;Achelse Kluis
+53;Achel 8 Bruin;trappist,bruin;8%;Achelse Kluis
+54;Achel Blond Extra;trappist,blond;9,5%;Achelse Kluis
+55;Achel Bruin Extra;trappist,bruin;9,5%;Achelse Kluis
+56;Adelardus;abdijbier;7%;Brouwerij Sint-Jozef
+57;Adelardus Tripel;abdijbier,tripel;9%;Brouwerij Sint-Jozef voor Brouwerij Kerkom
+58;Adler;pils;6,5%;Brouwerij Haacht
+59;Adriaen Brouwer;hogegisting,bruin;5%;Brouwerij Roman
+60;Adriaen Brouwer Dark Gold;hogegisting,bruin;8,5%;Brouwerij Roman
+61;Affligem 10;abdijbier;10%;Affligem Brouwerij (Heineken)
+62;Affligem Blond;abdijbier,blond;6,8%;Affligem Brouwerij
+63;Affligem Dubbel;abdijbier,bruin;6,8%;Affligem Brouwerij (Heineken)
+64;Affligem 950 Cuvee;abdijbier,blond;6,8%;Affligem Brouwerij (Heineken)
+65;Affligem Noël;abdijbier,kerstbier;9%;Affligem Brouwerij (Heineken)
+66;Affligem Patersvat;abdijbier,dubbelge;6,8%;Affligem Brouwerij (Heineken)
+67;Affligem Rood;abdijbier;6,7%;Affligem Brouwerij (Heineken)
+68;Affligem Tripel;abdijbier,tripel;8,5%;Affligem Brouwerij (Heineken)
+69;Agrumbocq;hogegisting;3,1%;Brasserie du Bocq
+70;Airborne;abdijbier,dubbel;7,5%;Brasserie De Bouillon
+71;Airborne Christmas;kerstbier;8%;Brasserie De Bouillon
+72;Akila Pils;pils;5%;Brouwerij Louwaege
+73;Alfoncine;robijnrood;8,5%;Brouwerij Strubbe
+74;Alfri;napils;0,5%;Brouwerij Roman
+75;Alpaïde;donkere;10%;Brouwerij Nieuwhuys
+76;Alpaïde Cuvée van de generaal;blonde;8,5%;Brouwerij Nieuwhuys
+77;Alpha;amber;6%;Brouwerij Anders!
+78;Altitude 6;ale,blond;6%;Brasserie de l'Abbaye des Rocs
+79;Alvinne blond;blond;6,3%;Brouwerij Alvinne
+80;Alvinne Extra Restyled;lichtamber;7%;Brouwerij Alvinne
+81;Alvinne Lex'ke;blond;6,3%;Brouwerij Alvinne
+82;Alvinne Tripel;tripel;8,7%;Brouwerij Alvinne
+83;Alvino Bourgogne Barrel OA;fruitbier,oakaged;5,5%;Brouwerij Alvinne
+84;Ambetanterik;stout;8,7%;Brouwerij Het Alternatief
+85;Ambiorix;roodbruin;8%;Brouwerij Slaghmuylder
+86;Angélus Blonde;blond;7%;Brasserie Brootcoorens
+87;Angélus Brune;bruin;7%;Brasserie Brootcoorens
+88;Angélus Spéciale Noël;kerstbier;9%;Brasserie Brootcoorens
+89;Anker Blond;blond;6,5%;Brouwerij Het Anker
+90;Anker Boscoulis;fruitbier;6,5%;Brouwerij Het Anker
+91;Anker Herfstbok;bruinspeciaalbier,bokbier;6,5%;Brouwerij Het Anker
+92;Anker Pils;pils;;Brouwerij Het Anker
+93;Anker Pils;pils;5%;Brouwerij Het Anker
+94;Antiek Blond;blond;8%;Brouwerij Deca
+95;Antiek Bruin;bruin;8%;Brouwerij Deca
+96;Antiek Super 5 Blond;blond;5%;Brouwerij Deca
+97;Antigoon;blond;6,7%;De Proefbrouwerij voor The Musketeers
+98;Antwerps Blond;blond;5%;Huisbrouwerij 't Pakhuis
+99;Antwerps Bruin;bruin;5,8%;Huisbrouwerij 't Pakhuis
+100;Applebocq;fruitbier;3,1%;Brasserie Du Bocq
+101;Arabier;blond;8%;De Dolle Brouwers
+102;Archiduc;;6,2%;Brasserie d'Ecaussinnes
+103;Arend Blond;blond;6,5%;Brouwerij De Ryck
+104;Arend Dubbel;donkerbruin;6,5%;Brouwerij De Ryck
+105;Arend Tripel;goudblond;8%;Brouwerij De Ryck
+106;Arend Winter;donker;6,3%;Brouwerij De Ryck
+107;Arendonker Bruin;bruin;8,5%;Dorpsbrouwerij Humulus
+108;Arendonker Tripel;goudblond;8%;Dorpsbrouwerij Humulus
+109;Armand’4 Herfst;oude;6%;Geuzestekerij 3 Fonteinen
+110;Armand’4 Lente;oude;6%;Geuzestekerij 3 Fonteinen
+111;Armand’4 Winter;oude;6%;Geuzestekerij 3 Fonteinen
+112;Armand’4 Zomer;oude;6%;Geuzestekerij 3 Fonteinen
+113;Artevelde;specialebelge;5,7%;Brouwerij Huyghe
+114;Artevelde Grand Cru;roodbruin;7,2%;Brouwerij Huyghe
+115;Asterie;witbier;4,9%;Brasserie d'Ecaussinnes
+116;Atomium Premier Grand Cru;amber;8%;Brouwerij Van Steenberge
+117;Augrenette;blond;4,5%;Brouwerij Augrenoise
+118;Augrenoise;troebelblond;6,5%;Brouwerij Augrenoise
+119;Augrenoise Blonde de Noël;troebelblond,kerstbier;10%;Brouwerij Augrenoise
+120;Augustijn Blond;abdijbier;7,5%;Brouwerij Van Steenberge
+121;Augustijn Donker;abdijbier;7%;Brouwerij Van Steenberge
+122;Augustijn Grand Cru;abdijbier,tripel;9%;Brouwerij Van Steenberge
+123;Authentic 621;bruin;7,5%;Authentique Brasserie
+124;Authentic Ambrée;amber;5%;Authentique Brasserie
+125;Authentic Blonde;blond;6,5%;Authentique Brasserie
+126;Authentic Blonde de Noël;kerstbier;9%;Authentique Brasserie
+127;Authentic Triple;tripel;9,5%;Authentique Brasserie
+128;L'Autruche Biere des Gilles;blondtroebel;7%;Brasserie de Silenrieux
+129;Avec les Bons Vœux;blond;9,5%;Brouwerij Dupont
+130;Averbode;abdijbier;7,5%;Brouwerij Huyghe
+131;Babylone;bitter;7%;Brouwerij Brussels Beer Project
+132;Bacchus;oudbruin;4,5%;Brouwerij Van Honsebrouck
+133;Bacchus Frambozenbier;fruitbier;5%;Brouwerij Van Honsebrouck
+134;Bacchus Kriekenbier;fruitbier;5,8%;Brouwerij Van Honsebrouck
+135;Balthazar;winterbier;8,9%;Brouwerij Alvinne
+136;Barbãr;blond,honingbier;8%;Brouwerij Lefebvre
+137;Barbãr Winter Bok;bokbier;8%;Brouwerij Lefebvre
+138;Barbãr Cuveé Special;honingbier;8%;Brouwerij Lefebvre
+139;Barbe d'Or;blond;7,5%;Brouwerij Verhaeghe
+140;Barbe Noire;stout;9%;Brouwerij Verhaeghe
+141;Barbe Rouge;amber;8%;Brouwerij Verhaeghe
+142;Barse Cuvée;bruin;10%;Bierfirma Valocco
+143;Bas;goudblond;6,5%;De Proefbrouwerij voor bierfirma Bas-bieren
+144;Bastogne Pale Ale;belgian;6,5%;Brasserie de Bastogne
+145;Basilius;amber;7%;De Proefbrouwerij
+146;Bavaro;blond,lagegisting;3,6%;Brouwerij Haacht
+147;Bavik Blond;tafelbier;1,5%;Brouwerij Bavik
+148;Bavik Faro;tafelbier;1,5%;Brouwerij Bavik
+149;Bavik Pony-Stout;stout;5,2%;Brouwerij Bavik
+150;Bavik Premium Pils;pils;5,2%;Brouwerij Bavik
+151;Bavik Triple Bock;bokbier;3%;Brouwerij Bavik
+152;Beer for Life;blond;6,5%;Brouwerij Dilewyns
+153;Beernems Berenbier;blond;7,5%;brouwerij De Smedt
+154;Beersel Bio;blond;7%;Geuzestekerij 3 Fonteinen
+155;Beersel Blond;blond;7%;Geuzestekerij 3 Fonteinen
+156;Beersel Lager;pils;5,2%;Geuzestekerij 3 Fonteinen
+157;Bel Pils;pils;5%;Brouwerij Duvel Moortgat
+158;Belgian Angel Stout;stout;5,2%;Brasserie Brootcoorens
+159;Belgian Framboises;fruitbier;3,5%;Brasserie Lefebvre
+160;Belgian Kriek;fruitbier;3,5%;Brasserie Lefebvre
+161;Belge;spécialebelge;5%;Brasserie La Binchoise
+162;Belgian Pêches;fruitbier;3,5%;Brasserie Lefebvre
+163;Belgica IPA;ipa;7,9%;Brouwerij Strubbe
+164;Belgoo Arboo;tripel,amber;8,1%;Brouwerij Belgoobeer
+165;Belgoo Bio Amber;biologisch;7,8%;Brouwerij Belgoobeer bij Brouwerij La Binchoise
+166;Belgoo Bio Blond;biologisch;6,4%;Brouwerij Belgoobeer bij Brouwerij La Binchoise
+167;Belgoo Magus;blond;6,6%;Brouwerij Belgoobeer bij Brouwerij La Binchoise
+168;Belgoo Maxus;goudblond;8,1%;Brouwerij Belgoobeer bij Brouwerij La Binchoise
+169;Belgoo Luppoo;goudblond;6,5%;Brouwerij Belgoobeer bij Brouwerij La Binchoise
+170;Bella Mère;blond;6,5%;Brasserie Millevertus
+171;Belle Cies;blond;10%;Huisbrouwerij Den Tseut
+172;Belle-Fleur;ipa;6%;Brouwerij De Dochter van de Korenaar
+173;Belle-Vue Framboise;fruitbier;5,7%;Brouwerij Belle-Vue
+174;Belle-Vue Extra Framboise;fruitbier;2,9%;Brouwerij Belle-Vue (Inbev)
+175;Belle-Vue Kriek;kriek;5,2%;Brouwerij Belle-Vue (InBev)
+176;Belle-Vue Kriek Classique;kriek;5,1%;Brouwerij Belle-Vue (Inbev)
+177;Belle-Vue Kriek Primeur;lambiek;5,5%;Brouwerij Belle-Vue (InBev)
+178;Belle-Vue Extra Kriek;kriek;4,3%;Brouwerij Belle-Vue (InBev)
+179;Belle-Vue Gueuze;lambiek;5,5%;Brouwerij Belle-Vue (InBev)
+180;Belle-Vue Selection Lambik;lambiek;;Brouwerij Belle-Vue (InBev)
+181;Belle-Vue LA;alcoholarm;1%;Brouwerij Belle-Vue (Inbev)
+182;Bellebier Amber;amber;5,2%;Brouwerij Van Steenberge
+183;Bellebier Dubbel;bruin;6,2%;Brouwerij Van Steenberge voor Paeleman
+184;Bellebier Trippel;tripel;8%;Brouwerij Van Steenberge voor Paeleman
+185;Bellegems Bruin;vlaamsoudbruin;5,5%;Brouwerij Bockor
+186;Bellegems Witbier;witbier;5,0%;Brouwerij Bockor
+187;Belval;blond;4,8%;Gageleer
+188;Berentemmer;bruin;7%;Brouwerij Maenhout
+189;Bersalis Tripel;blond,hogegisting,tripel;9,5%;Brouwerij Huyghe
+190;Bersalis Kadet;blond;4,5%;Brouwerij Huyghe voor Brouwerij Oud Beersel
+191;Bertinchamps B+ Blanche;witbier;5%;Brasserie de Bertinchamps
+192;Bertinchamps B+ Pamplemousse;fruitbier;5,2%;Brasserie de Bertinchamps
+193;Bertinchamps Blonde;blond;6,2%;Brasserie de Bertinchamps
+194;Bertinchamps Brune;bruin;7%;Brasserie de Bertinchamps
+195;Bertinchamps Hiver;winterbier;8%;Brasserie de Bertinchamps
+196;Bertinchamps Triple;tripel;8%;Brasserie de Bertinchamps
+197;Beta;donkeramber;6%;Brouwerij Anders!
+198;Betchard Brune;bruin;7%;Brasserie de Tubize
+199;Betchard Blonde;blond;5,5%;Brasserie de Tubize
+200;Bieken;blond;8%;Brouwerij Boelens
+201;Bierbeekse;blond-amber,hogegisting;7,3%;Brouwerij Van Steenberge voor de gemeente Bierbeek en Terclavers
+202;Bierbuik;donker;8%;De Verhuisbrouwerij
+203;Bière Darbyste;amber;5,8%;Brasserie de Blaugies
+204;Bière de Beloeil;hogegisting;8,5%;Brasserie Dupont
+205;Bière de Garde;biologisch,roodbruin;10%;Brouwerij Jessenhofke
+206;Bière de la Bonde;tripel;10%;Brouwerij Van Eecke
+207;Bière de Miel Bio;honingbier;8%;Brouwerij Rimaux-Deridder
+208;Bière de Miel Bio;biologisch,honingbier;8%;Brouwerij Dupont
+209;Bière des Ours;honingbier;8,5%;Brasserie La Binchoise
+210;Bière du Corsaire Cuvée Spéciale;sterkblond;9,4%;Brouwerij Huyghe
+211;Bière du Mont Saint-Aubert;blond;8%;Brasserie de Brunehaut
+212;Bière Spéciale Belge;spécialebelge;5%;Brasserie La Binchoise
+213;Big Bavik;blond;5%;Brouwerij Bavik
+214;Bierpruver Dubbel Bruin;dubbel;7,5%;Huisbrouwerij de 3 vaten
+215;Bierpruver Tripel;tripel;9%;Huisbrouwerij de 3 vaten
+216;Bierpruver Winter;winterbier;8%;Huisbrouwerij de 3 vaten
+217;Big Bayou;metcajunkruiden;4%;Brouwerij Smisje
+218;Bink Blond;belgischepaleale;5,5%;Brouwerij Kerkom
+219;Bink Bruin;dubbel;5,5%;Brouwerij Kerkom
+220;Bink Bloesem;blond;7,1%;Brouwerij Kerkom
+221;Bink Tripel;tripel;9%;Brouwerij Kerkom
+222;Biolégère;biologisch;3,5%;Brouwerij Dupont
+223;Bioloo Amber;biologisch;7,8%;Brouwerij Belgoobeer
+224;Bioloo Blond;biologisch;6,4%;Brouwerij Belgoobeer bij Brouwerij La Binchoise
+225;Bitter Sweet Symphony;dubbele;7,8%;Brouwerij 't Gaverhopke
+226;Bittere Waarheid;belgianipa;11%;Brouwerij Het Alternatief
+227;Black;donkereale;6,3%;Brasserie de Bellevaux
+228;Black Albert;belgianroyalstout;13%;De Struise Brouwers
+229;Black Damnation;russianimperialstout;13%;De Struise Brouwers bij Brouwerij Deca
+230;Black Damnation I (Albert);russianimperialstout;13%;De Struise Brouwers bij Brouwerij Deca
+231;Black Damnation II (Mocha Bomb);russianimperialstout;12%;De Struise Brouwers bij Brouwerij Deca
+232;Black Damnation III (Black Mes);russianimperialstout;13%;De Struise Brouwers bij Brouwerij Deca
+233;Black Damnation IV (Coffée Club);russianimperialstout;13%;De Struise Brouwers bij Brouwerij Deca
+234;Black Damnation V (Double Black);russianimperialstout,eisbockmethode;26%;De Struise Brouwers bij Brouwerij Deca
+235;Black Damnation VI (Messy);russianimperialstout,eisbockmethode;39%;De Struise Brouwers bij Brouwerij Deca
+236;Black Damnation VII (Single Black);russianimperialstout,eisbockmethode;2%;De Struise Brouwers bij Brouwerij Deca
+237;Black Damnation VIII (S.H.I.T));russianimperialstout;12%;De Struise Brouwers bij Brouwerij Deca
+238;Black Damnation IX (Beggars' Art);russianimperialstout;19,1%;De Struise Brouwers bij Brouwerij Deca
+239;Black Damnation X (Double Wood);russianimperialstout;15%;De Struise Brouwers bij Brouwerij Deca
+240;Black Damnation XI (Special Kay);russianimperialstout,eisbockmethode;22%;De Struise Brouwers bij Brouwerij Deca
+241;Black Damnation XII (Nuptiale A2);russianimperialstout;13%;De Struise Brouwers bij Brouwerij Deca
+242;Black Damnation XIII (More anger);russianimperialstout;13,5%;De Struise Brouwers bij Brouwerij Deca
+243;Black Damnation XIV (Talisman);russianimperialstout;13%;De Struise Brouwers bij Brouwerij Deca
+244;Black Damnation XV (Drone);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+245;Black Damnation XVI (Ivan the Terrible);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+246;Black Damnation XVII (Ben);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+247;Black Damnation XVIII (Major Tom);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+248;Black Damnation XIX (Maestro);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+249;Black Damnation XX (Ma Boule);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+250;Black Damnation XXI (Black Mes SR);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+251;Black Damnation XXII (Willy);russianimperialstout,eisbockmethode;13%;De Struise Brouwers bij Brouwerij Deca
+252;Black Ghost;hogegisting;8%;Brasserie Fantôme
+253;Black Hole;pils;5,6%;Brouwerij Roman
+254;Black Jack;porter;7%;De Struise Brouwers bij Brouwerij Deca
+255;Blanche;witbier;4,8%;Brasserie de Bellevaux
+256;Blanche d'Ardenne;witbier;4,3%;Brasserie du Bocq
+257;Blanche de Bouillon;witbier;5,5%;Brasserie de Bouillon
+258;Blanche de Brabant;witbier;5%;Groep John Martin
+259;Blanche de Bruxelles;witbier;4,5%;Brouwerij Lefebvre
+260;Blanche de Charleroi;witbier;5%;Brasserie Val de Sambre
+261;Blanche de Francorchamps;witbier;4,5%;Brouwerij Lefebvre
+262;Blanche de Namur;witbier;5,2%;Brasserie du Bocq
+263;Blanche de Tubize;witbier;4,8%;Brasserie de Tubize
+264;Blanche de Quenast;witbier;4,5%;Brouwerij Lefebvre
+265;Blanche des Honnelles;witbier;6%;Brasserie de l'Abbaye des Rocs
+266;Blanche des Neiges;witbier;5%;Brouwerij Huyghe
+267;Blanche du Hainaut Bio;witbier,biologisch;5,5%;Brouwerij Dupont
+268;Blanchette de Gaume;witbier;5%;Brasserie Millevertus
+269;Blanchette de Lorraine;witbier,fruitbier;5%;Brasserie Millevertus
+270;BLAUW;pils,export;5,2%;Brouwerij Bockor
+271;Blauwersbier;mengbier;6,5%;Brouwerij Van Eecke
+272;Bleeken Moriaen;tripel;10%;Brouwerij Van Eecke
+273;Blinde Mol;blond;6,5%;Brouwerij Maenhout
+274;Bloemenbier;belgianstrongale;7%;De Proefbrouwerij
+275;Bloesem Kriek;kriek;4,5%;Brouwerij Kerkom
+276;Blonde;blond;7%;Brasserie de Bellevaux
+277;Blonde;blond,lagegisting;1,2%;Brouwerij Haacht
+278;Blonde Bie;blond;8%;Brouwerij De Bie
+279;Blonde Stoot;blond;5%;Brouwerij Anders!
+280;Blonde de Brabant;blond;6%;Groep John Martin
+281;Blonde de Noël;blond;10%;Brasserie Caulier
+282;Blondelle;blond;7%;'t Hofbrouwerijke
+283;Blondine;blond;8%;Brouwerij Van Steenberge voor Hopduvel Gent
+284;Blondine IPA;ipa;8%;Brouwerij De Graal voor Hopduvel Gent
+285;Bloody Belgium;blond;6.5%;
+286;Blusser;pils;5%;Brouwerij Het Anker
+287;Bock Leroy;tafelbier;1,8%;Brouwerij Het Sas
+288;Bock Pils;pils;5,2%;Brouwerij Palm
+289;Bockor Pils;lagegisting,pils;5,2%;Brouwerij Bockor
+290;Bocq Christmas;kerstbier;8,1%;Brasserie Du Bocq
+291;Boembeke Luiwerk Blond;blond,lichttroebel;6,5%;Brouwerij De Graal
+292;Boerinneken;hogegisting,blond;9,5%;De Proefbrouwerij voor Verstraeten H&S
+293;Boerke Amber;amber;6,8%;Brouwerij Angerik
+294;Boerke Blond;blond;6,8%;Brouwerij Angerik
+295;Boerke Bruin;bruin;6,8%;Brouwerij Angerik
+296;Boerke Donker;;5,5%;Brouwerij Angerik
+297;Boerke Krieken;fruitbier;6,5%;Brouwerij Angerik
+298;Boerken;hogegisting,bruin;9,5%;De proefbrouwerij voor Verstraeten H&S
+299;Bokkereyer;lagegisting;6%;Brouwerij Sint-Jozef
+300;Bolivar Blond;blond;7,5%;Brouwerij Huyghe
+301;Bolivar Bruin;bruin;7,5%;Brouwerij Huyghe
+302;Bolleville Calvados Barrel OA;oakaged;10%;Brouwerij Alvinne
+303;Bokrijks;blond,abdijbier;7,2%;Brouwerij du Bocq
+304;Bon Homme;hogegisting,donkerbruin;6,5%;Brouwerij De Leite
+305;Bon Secours Ambrée;hogegisting,amber;8%;Brouwerij Caulier
+306;Bon Secours Blonde;hogegisting,blond;8%;Brouwerij Caulier
+307;Bon Secours Brune;hogegisting,bruin;8%;Brouwerij Caulier
+308;Bon Secours Framboise;hogegisting,frambozenbier;7%;Brouwerij Caulier
+309;Bon Secours Myrtille;hogegisting,bosbessenbier;7%;Brouwerij Caulier
+310;Bon Secours Noël;hogegisting,blondkerstbier;10%;Brouwerij Caulier
+311;Boneffe;abdijbier;9%;Brasserie de Tubize
+312;Bootjes Bier;amber;7%;Brouwerij Roman
+313;Bons Voeux;blond;9,5%;Brouwerij Dupont
+314;Bornem Dubbel;abdijbier;8%;Brouwerij Van Steenberge
+315;Bornem Tripel;abdijbier;9%;Brouwerij Van Steenberge
+316;Bos Bier;fruitbier;9%;Brouwerij DijkWaert
+317;Bosbier;fruitbier-pils;4%;Brouwerij Sint-Jozef
+318;Boscoli;fruitbier;3,5%;Brouwerij Het Anker
+319;Boskeun;lichtblond;7%;De Dolle Brouwers
+320;Bosprotter;tripel;8,5%;'t Hofbrouwerijke
+321;Bourgogne des Flandres Blond;hogegisting,blond;6%;Brouwerij Verhaeghe
+322;Bourgogne des Flandres Bruin;oudbruin;5%;Brouwerij Verhaeghe nu Brouwerij Timmermans
+323;Bras;bruin;10%;Brouwerij Den Tseut
+324;Brasserie des Rocs Triple Impériale;;10%;Brasserie de l'Abbaye des Rocs
+325;Brave Broeder;hogegisting(etiketbier);5%;Brasserie de Silly
+326;Bravoure;hogegisting,rookbier,amber;6,5%;Brouwerij De Dochter van de Korenaar
+327;Bremserbier;amber;6%;Huisbrouwerij de 3 vaten
+328;Brice;blond;7,5%;Brasserie Grain d'Orge
+329;Briekebakker;tripel;8,7%;Brouwerij Alvinne
+330;Brigand;blond;9%;Brouwerij Van Honsebrouck
+331;Brigand IPA;indiapaleale;6,5%;Brouwerij Van Honsebrouck
+332;Broeder Jacob Bruin;bruin;7,5%;Brasserie du Bocq voor
+333;Broeder Jacob Double Expresso;bruin;7,7%;Brasserie du Bocq voor
+334;Broeder Jacob Double Port;donkerbruin;9%;Brasserie du Bocq voor
+335;Broeder Jacob Formidabel;blond;5,5%;Brasserie du Bocq voor
+336;Broeder Jacob Tripel;tripel;7,5%;Brasserie du Bocq voor
+337;Bruegel;amber;5%;Brouwerij Van Steenberge
+338;Brugge Blond;speciaalbier,hogegisting;6,5%;Brouwerij Palm
+339;Brugge Tripel;speciaalbier,hogegisting;8,7%;Brouwerij Palm (vroeger in Brouwerij De Gouden Boom)
+340;Brugs (Tarwebier);witbier;4,8%;Alken-Maes
+341;Brugs Beertje 20;blond;6,5%;Brouwerij De Regenboog
+342;Brugs Beertje 25;amber;9%;Brouwerij De Regenboog
+343;Brugse Babbelaar;blond;6,5%;De Proefbrouwerij
+344;Brugse Bok;lichtdonker;6,5%;Brouwerij De Halve Maan
+345;Brugse SportZot;goudblond;0,4%;Brouwerij De Halve Maan
+346;Brugse Zot Blond;goudblond;6%;Brouwerij De Halve Maan
+347;Brugse Zot Dubbel;bruin;7,5%;Brouwerij De Halve Maan
+348;Bruin Leroy;tafelbier;1,8%;Brouwerij Het Sas
+349;Brune;bruin;6,8%;Brasserie de Bellevaux
+350;Brunehaut Terroir;witbier;5%;Brasserie de Brunehaut
+351;Brunehaut Tradition;amber;6,5%;Brasserie de Brunehaut
+352;Brunehaut Village;blond;6,5%;Brasserie de  Brunehaut
+353;Brunehaut Bio Amber;biologisch;6,5%;Brasserie de  Brunehaut
+354;Brunehaut Bio Blanche;biologisch,witbier;5%;Brasserie de  Brunehaut
+355;Brunehaut Bio Blonde;biologisch;6,5%;Brasserie de  Brunehaut
+356;Brunette;hogegisting;9%;Brouwerij Van Steenberge voor Hopduvel Gent
+357;Brussels Framboos;fruitbier;3,5%;Brouwerij Van Steenberge
+358;Brussels Kriek;fruitbier;5%;Brouwerij Van Steenberge
+359;Brussels Perzik;fruitbier;4%;Brouwerij Van Steenberge
+360;"Brussels Fruit Beer ""Apple""";fruitbier;3,2%;Brasserie Du Bocq
+361;"Brussels Fruit Beer ""Peaches""";fruitbier;3,2%;Brasserie Du Bocq
+362;"Brussels Fruit Beer ""Red Fruit""";fruitbier;3,2%;Brasserie Du Bocq
+363;Brut;blondaperitiefbier;8%;Brouwerij De Vlier
+364;Bruynen Moriaen;donker;9%;Brouwerij Van Eecke
+365;BRWN;hogegisting,biologisch;7%;De Proefbrouwerij
+366;Bryggja;tripel;8,5%;Brouwerij De Graal voor
+367;Bueckenholt Belge;spécialebelge,amber;6,5%;Brouwerij Anders!
+368;Bueckenholt SaisoN548;saison,blond;6,1%;Brouwerij Den Triest
+369;Buffalo;hogegisting,donker;6,5%;Brouwerij Van Den Bossche
+370;Buffalo Belgian Stout;stout;9%;Brouwerij Van Den Bossche
+371;Buffalo Bitter;blond;8%;Brouwerij Van Den Bossche
+372;Bufo;blond;4,8%;De Proefbrouwerij voor
+373;Bush 7;amber;7,5%;Brouwerij Dubuisson
+374;Bush Amber;hogegisting,amber;12%;Brouwerij Dubuisson
+375;Bush Amber Tripel;tripel,amber;12%;Brouwerij Dubuisson
+376;Bush Blond;hogegisting,blond;10,5%;Brouwerij Dubuisson
+377;Bush Blond Triple;tripel,blond;10,5%;Brouwerij Dubuisson
+378;Bush de Noël;kerstbier;12%;Brouwerij Dubuisson
+379;Bush de Noël Premium;kerstbier,tripel;13%;Brouwerij Dubuisson
+380;Bush Millennium;amber,tripel;13%;Brouwerij Dubuisson
+381;Bush de Nuits;amber,tripel;13%;Brouwerij Dubuisson
+382;Bush Prestige;amber,tripel;13%;Brouwerij Dubuisson
+383;Camaraderie;blond;8%;Brouwerij Bavik
+384;Cambrinus;belgische;5,1%;Brouwerij Verhaeghe
+385;Campus Premium;pils;5%;Brouwerij Huyghe
+386;Campus;sterkdonker;7%;Brouwerij Huyghe
+387;Campus Gold;blond;6,2%;Brouwerij Huyghe
+388;Canaille;witbier;5,2%;Brasserie Grain d'Orge
+389;Canaster;scotch;8,7%;Brouwerij De Glazen Toren
+390;Cantillon Geuze;spontanegisting;5%;Brouwerij Cantillon
+391;Caper Fumatis;donkerbruin;6,3%;Brouwerij Alvinne
+392;Capoen;amber;6,5%;De Proefbrouwerij
+393;Captain Cooker Manuka Beer;amber;5,7%;De Proefbrouwerij voor Captain Cooker
+394;Captain Cooker White Manuka Beer;witbier;4,5%;De Proefbrouwerij voor Captain Cooker
+395;Cara Pils;pils;4,4% - 5,2% (variërend);Brouwerij Haacht
+396;Caracole;hogegisting,amber;8%;Brasserie Caracole
+397;Carioca;witbier;4,8%;De Lion à Plume bij
+398;Carlos;donker,hogegisting;6,5%;Brouwerij Contreras
+399;Carnavalsbier;blond;6,1%;Brouwerij De Graal
+400;Carrousel;hogegisting,blond;6%;Brouwerij De Vlier
+401;Caulier Blonde;hogegisting,blond;6,8%;De Proefbrouwerij voor Caulier Developpement
+402;Caulier Brune;hogegisting,amberbruin;6,8%;De Proefbrouwerij voor Caulier Developpement
+403;Caulier Gluten free Blonde;hogegisting,blond;6,8%;De Proefbrouwerij voor Caulier Developpement
+404;Caulier Special Extra;hogegisting,blond;4,3%;De Proefbrouwerij voor Caulier Developpement
+405;Caves;hogegisting,amberkleurig;5,8%;Brouwerij Verhaeghe Vichte
+406;Ceci n'est pas un Barley Wine;gerstewijn;10%;Brasserie Sainte-Hélène
+407;Ceci n'est pas une saison;saison;6,5%;'t Hofbrouwerijke
+408;Ceci n'est pas une stout;stout;6,5%;'t Hofbrouwerijke
+409;Ceci n'est pas une triple;tripel;8%;'t Hofbrouwerijke
+410;Celestus (bier);lager;5%;Brouwerij Haacht
+411;Celis White;witbier;5%;Brouwerij Van Steenberge
+412;Celtic Angel;hogegisting,amber;6,2%;De Proefbrouwerij
+413;Cervesia;hogegisting,blond;8%;Brouwerij Dupont
+414;Cervoise de l'Avouerie d'Anthisnes;;5%;Brasserie de Silly
+415;Cesar;tripel;8,5%;Brouwerij Van Steenberge
+416;Cezarken;lager;5,5%;Brouwerij Strubbe
+417;Chapeau Gueuze;geuze;5,5%;Brouwerij De Troch
+418;Chapeau Abricot;fruitbier;3,5%;Brouwerij De Troch
+419;Chapeau Banana;fruitbier;3,5%;Brouwerij De Troch
+420;Chapeau Cuvée Oude Gueuze;oudegeuze;5,5%;Brouwerij De Troch
+421;Chapeau Exotic;fruitbier;3,5%;Brouwerij De Troch
+422;Chapeau Faro;aangezoetegeuze;4,75%;Brouwerij De Troch
+423;Chapeau Fraises;fruitbier;3,5%;Brouwerij De Troch
+424;Chapeau Framboise;fruitbier;3,5%;Brouwerij De Troch
+425;Chapeau Kriek;fruitbier;3,5%;Brouwerij De Troch
+426;Chapeau Lemon;fruitbier;3,5%;Brouwerij De Troch
+427;Chapeau Mirabelle;fruitbier;3,5%;Brouwerij De Troch
+428;Chapeau Pêche;fruitbier;3,5%;Brouwerij De Troch
+429;Chapeau Winter Gueuze;geuze,kerstbier;5,6%;Brouwerij De Troch
+430;Charles Quint;lager;8,5%;Haacht
+431;Chimay Blauw;trappist;9%;Abdij Notre-Dame de Scourmont
+432;Chimay Dobbelbock;lagegisting;9%;Abdij Notre-Dame de Scourmont
+433;Chimay dorée;blondtafelbier;4,8%;Abdij Notre-Dame de Scourmont
+434;Chimay Rood;trappist;7%;Abdij Notre-Dame de Scourmont
+435;Chimay Wit;tripel;8%;Abdij Notre-Dame de Scourmont
+436;Chimay Spéciale Cent Cinquante;trappist;10%;Abdij Notre-Dame de Scourmont
+437;Chouffe Bok 6666;donkeramber;6,66%;Brouwerij d'Achouffe
+438;Christmas Leroy;hogegisting,kerstbier;7,5%;Brouwerij Van Eecke
+439;Christmas Verhaeghe;hogegisting,kerstbier;7,2%;Brouwerij Verhaeghe
+440;Christmas Pale Ale;hogegisting,kerstbier;6,3%;Brouwerij De Ryck
+441;Ciney Blond;hogegisting,blond;7%;Alken-Maes
+442;Ciney Bruin;hogegisting,bruin;7%;Alken-Maes (vroeger
+443;Ciney Speciale 10;hogegisting,bruin;9%;Alken-Maes (vroeger
+444;"Clio ""Sister of Apollo""";goldenale;7,3%;Brouwerij Eutropius
+445;Cluysenaer Amber;hogegisting;7%;De Proefbrouwerij voor
+446;Cluysenaer Cuvée Noir;hogegisting;8%;De Proefbrouwerij voor
+447;Cnudde Bizon;fruitbier;5,5%;Brouwerij Cnudde
+448;Cnudde Oudenaards bruin;vlaamsoudbruin;5%;Brouwerij Cnudde
+449;Colère Rouge;belgiandarkale;5%;Brasserie Millevertus
+450;Content;tripel;7,5%;Brouwerij De Graal
+451;Contrapils;pils;5%;Brouwerij Contreras
+452;Contreras' Especial Mars;hogegisting,lentebier;6,5%;Brouwerij Contreras
+453;Cookie Beer;speciaalbier;8%;Brasserie d'Ecaussinnes
+454;Coq Hardi;lagegisting,blond;5,5%;Brouwerij Haacht
+455;Cornet;hogegisting,blond;8,5%;Brouwerij Palm
+456;Corsendonk Agnus;blondetripel;7,5%;Brouwerij du Bocq
+457;Corsendonk Blond;hogegisting;6,5%;Brouwerij du Bocq voor Corsendonk nv
+458;Corsendonk Bruin;hogegisting;6,5%;Brouwerij du Bocq voor Corsendonk nv
+459;Corsendonk Christmas Ale;kerstbier;8,5%;Brouwerij du Bocq voor Corsendonk nv
+460;Corsendonk Pater;roodbruin,dubbel;7,5%;Brouwerij du Bocq voor Corsendonk nv
+461;Corsendonk Rousse;amber,hogegisting;8%;Brouwerij du Bocq voor Corsendonk nv
+462;Corsendonk Triple 11.11.11;tripel(etiketbier);7,5%;Brouwerij du Bocq voor Corsendonk nv
+463;Couckelaerschen Doedel;hogegisting;6,5%;Brouwerij Strubbe
+464;Courage;hogegisting,winterbier;8%;Brouwerij De Dochter van de Korenaar
+465;Coy'Heimsen;roodbruin,etiketbier;6%;Brouwerij Van Eecke
+466;Crabbelaer;dubbel;?;?
+467;Crabbelaer;saison;6,5%;Brouwerij De Graal
+468;Crack Pils;lagegisting,pils;5%;Brouwerij Het Sas
+469;Crianza;mengbiermetlambiek;7%;Brasserie de la Senne
+470;Cristal Alken;lagegisting,pils;4,8%;Alken-Maes
+471;Cristal 1928;lagegisting,pils;5,8%;Alken-Maes (Heineken)
+472;Curtius;hogegisting,blond;7%;Microbrasserie de la Principauté
+473;Cuvée Angélique;dubbel,specialbelge;8,3%;Brouwerij De Glazen Toren
+474;Cuvée de Bouillon;blond,hogegisting;6,5%;Brasserie de Bouillon
+475;Cuvée de Briqville;streekbier;7%;Brouwerij Van Steenberge
+476;Cuvée de Briqville;streekbier;?%;Brouwerij Van Goethem
+477;Cuvée de ciney;hogegisting,bruin;7%;Alken-Maes (vroeger
+478;Cuvée de Francorchamps;;8%;Brouwerij Lefebvre
+479;Cuvée De Ranke;gemengdegisting;7%;Brouwerij De Ranke
+480;Cuvée des Jacobins;lambiek;5,5%;Brouwerij Bockor
+481;Cuvée des Trolls;hogegisting,blond;7%;Brouwerij Dubuisson
+482;Cuvée des Trolls Triple;blondetripel;7%;Brouwerij Dubuisson
+483;Cuvée Delphine;belgianroyalstout;13%;De Struise Brouwers
+484;Cuvée d'Erpigny;quadrupel,oakaged;15%;Brouwerij Alvinne
+485;Cuvée du Château;sterkdonker;11%;Brouwerij Van Honsebrouck
+486;Cuvée du Flo Ambrée;hogegisting,amber;8,5%;Brasserie du Flo
+487;Cuvée du Flo Blonde;hogegisting,blond;8%;Brasserie du Flo
+488;Cuvée du Flo Brune;hogegisting,bruin;9%;Brasserie du Flo
+489;Cuvée du Flo Fruit;hogegisting,fruitbier;6,5%;Brasserie du Flo
+490;Cuvée du Flo Miel;hogegisting,honingbier;8,5%;Brasserie du Flo
+491;Cuvée du Tchesté;hogegisting;7,5%;Brasserie Les 3 Fourquets
+492;Cuvée du Tchesté;hogegisting;8,5%;Brasserie d'Achouffe
+493;Cuvée Ermesinde;hogegisting,amber;7,8%;Brasserie Saint-Monon
+494;Cuvée Freddy;stout;10%;Brouwerij Alvinne
+495;Cuvée Jeun'homme;blond;6,5%;Brouwerij De Leite
+496;Cuvée Jolie Môme;hogegisting,witbier;4,5%;Brasserie du Flo
+497;Cuvée Lambikstoemper;oudegeuze;7%;Brouwerij Boon
+498;Cuvée Li Crochon;hogegisting,bruin;8,7%;Brasserie Du Bocq
+499;Cuvée Mam'zelle;hoogblond;8,5%;Brouwerij De Leite
+500;Cuvée René Oude Geuze;oudegeuze;5,5%;Brouwerij Lindemans
+501;Cuvée René Oude Kriek;fruitbieropbasisvanlambiek;6%;Brouwerij Lindemans
+502;Cuvée Saint-Antoine Blonde;abdijbier;7,5%;Brasserie du Flo (voorheen
+503;Cuvée Saint-Antoine Brune;abdijbier,scotch;9%;Brasserie du Flo (voorheen
+504;Cuvée Saint Gilloise;spontanegisting;5%;Brouwerij Cantillon
+505;Cuvée Soeur'Ise;kriekenbier;8,5%;Brouwerij De Leite
+506;Dagelyckx bier;etiketbier;8%;Brouwerij Jessenhofke
+507;Darinckdelver;stout;10,5%;Brouwerij Alvinne
+508;Dark White BBB;hogegisting;4,5%;Brasserie Fantôme
+509;De Boomgaard Framboise;fruitbier;4,9%;Brasserie d'Ecaussinnes
+510;de Chokier;hogegisting,amber;7%;De Proefbrouwerij
+511;De Eycken Balthazar;donkerbruin;9%;Brouwerij Alvinne
+512;De Garre Tripel;tripel;11,5%;Staminee De Garre
+513;De Graal Blond;blond;6,5%;Brouwerij De Graal
+514;De Graal Dubbel;donker;6,5%;Brouwerij De Graal
+515;De Graal Gember;blond;8%;Brouwerij De Graal
+516;De Graal SloCK;koperkleurig;6,5%;Brouwerij De Graal
+517;De Graal Tripel;tripel;9%;Brouwerij De Graal
+518;De Graal Quest;suikervrij;9%;Brouwerij De Graal
+519;De Graal Triverius;witbier;6,8%;Brouwerij De Graal
+520;De Hoop;blond;9%;De Dolle Brouwers
+521;De Kavijaks;indiapaleale;7%;De Dolle Brouwers
+522;De Koninck Blond;blond;?%;Brouwerij De Koninck
+523;De Koninck;amber;5,2%;Brouwerij De Koninck
+524;De Koninck Triple d'Anvers;blond;8%;Brouwerij De Koninck (Duvel-Moortgat)
+525;De Koninck Tripel;tripel;8?%;Brouwerij De Koninck
+526;De Koninck Winter;robijnrood;6,5%;Brouwerij De Koninck (Duvel-Moortgat)
+527;De Maeght van Gottem;donkerblond;6,5%;Huisbrouwerij Sint-Canarus
+528;De Nacht;winterbier;5,2%;Brouwerij Vissenaken
+529;De Poes;blond,ongefilterd,hogegisting;8%;Brouwerij De Poes
+530;De Regenboog IJzer;;6%;Brouwerij De Regenboog
+531;De Skieven Architek;hogegisting;10,5%;Brouwerij Van Steenberge
+532;De Verboden Vrucht;hogegisting;8,5%;Brouwerij De Kluis
+533;De Vlier X-Mas;kerstbier;8,5%;Brouwerij De Vlier
+534;Deinze Export;export;4,6%;Huisbrouwerij Sint Canarus
+535;Delhaize Christmas;etiketbier;9%;Affligem Brouwerij
+536;Delhaize Tafelbier Blond;tafelbier;1,5%;Brouwerij Piedbœuf
+537;Delhaize Tafelbier Bruin;tafelbier;1,5%;Brouwerij Piedbœuf
+538;Deliria;donker,hogegisting;8,5%;Brouwerij Huyghe
+539;Delirium Nocturnum;blond,hogegisting;9%;Brouwerij Huyghe
+540;Delirium Tremens;tripel;9%;Brouwerij Huyghe
+541;Delirium Christmas;kerstbier;10%;Brouwerij Huyghe
+542;Delirium Red;fruitbier;8,5%;Brouwerij Huyghe
+543;Delta;blond;6%;Brouwerij Anders!
+544;Den Alternatief;lager;5%;Brouwerij Het Alternatief
+545;Den Bi3r;tripel;9%;Brouwerij Den Tseut
+546;Den Bras;bruin;7,5%;Brouwerij Den Tseut
+547;Den Drupneuze;winterbier;8,5%;Brouwerij Den Tseut
+548;Den Herberg Amber;amber;5%;Brouwerij Den Herberg
+549;Den Herberg Blond;blond;5,5%;Brouwerij Den Herberg
+550;Den Herberg Bruin;bruin;5,5%;Brouwerij Den Herberg
+551;Den Herberg Tarwe;witbier;5%;Brouwerij Den Herberg
+552;Den Mulder;blond;8%;Brouwerij Den Tseut
+553;Den Tseut;blond,speciaalbier;6,5%;Brouwerij Den Tseut
+554;Den Twaalf;hogegisting;12%;Brouwerij 't Gaverhopke
+555;Den Zytholoog;blond;6,6%;Brouwerij De Graal voor bierfirma Vacas
+556;Dendermonde Tripel;abdijbier,tripel;8%;Brouwerij De Block
+557;Dentergems Wit;witbier;5%;Brouwerij Het Anker
+558;Deugniet;tripel(etiketbier);7,3%;Brasserie Du Bocq
+559;DeuS;speciaalbier,blond;11,5%;Brouwerij Bosteels
+560;Diabolici;tripel;8%;Groep John Martin
+561;Dief Gold;blond,hogegisting;8%;Brouwerij Engilsen
+562;Dief Silver;blond,hogegisting;6,5%;Brouwerij Engilsen
+563;Dikke Mathile;hogegisting;6%;Brouwerij Strubbe
+564;Diôle;belgianale;6,5%;Brasserie des Carrières
+565;Dobbel Palm;hogegisting;6%;Brouwerij Palm
+566;Dobbelen;hogegisting;8%;Brouwerij Roman
+567;Dobbelken Amber;streekbier,amber;6,5%;Brouwerij Strubbe
+568;Dobbelken Bruin;streekbier,bruin;5%;Brouwerij Strubbe
+569;Dogabier;etiketbier;6,5%;Huisbrouwerij Sint-Canarus
+570;Domesticus Tripel;streekbier,tripel;8%;Brouwerij De Leite
+571;Dominus Dubbel;abdijbier;6,5%;Group John Martin
+572;Dominus Tripel;abdijbier,tripel;8%;Group John Martin
+573;Donkere Stoere;sterkdonker;8,2%;Brouwerij DijkWaert
+574;Double Bie;bruin;6,5%;Brouwerij De Bie
+575;Double de Brabant;dubbel,donker;6,5%;Groep John Martin
+576;Double Enghien Blonde;hogegisting,blond;7,5%;Brasserie de Silly
+577;Double Enghien Brune;hogegisting,amber;8%;Brasserie de Silly
+578; Douglas Celtic Brown;donkerescotch;7,9%;Scottish & Newcastle voor
+579; Douglas Celtic Lager;blondelager;5%;Scottish & Newcastle voor
+580; Douglas Celtic Red;amberrood,hogegisting;7,9%;Scottish & Newcastle voor
+581; Douglas Celtic Super;blond,hogegisting;7,9%;Scottish & Newcastle voor
+582; Douglas Celtic XXX Strong;blond,hogegisting;12%;Scottish & Newcastle voor
+583;Drongens Plezierke;hogegisting,donker;7,5%;Brouwerij Slaghmuylder
+584;Draeckenier;goudblond;7,5%;De Proefbrouwerij voor Brouwerij Troch
+585;Druïde Blond;lichtblond;6,5%;De Proefbrouwerij voor
+586;Druïde Bruin;robijnrood;6,5%;De Proefbrouwerij voor Brouwerij Druïde
+587;Druïde Grand Q;tripel,blond;8,5%;De Proefbrouwerij voor Brouwerij Druïde
+588;Druivenbier;fruitbier;6%;Brouwerij Van Steenberge
+589;Dubbel Buitenlust;blond;8,5%;De Proefbrouwerij
+590;Dubbel Klok;donker;8,5%;Brouwerij Boelens
+591;Ducassis;fruitbier;3%;Brasserie des Légendes
+592;Duchesse de Bourgogne;oudbruin;6,2%;Brouwerij Verhaeghe Vichte
+593;Duivels Bier;donker;8%;Brouwerij Boon
+594;Dulle Griet;dubbel;6,5%;De Scheldebrouwerij
+595;Dulle Teve;tripel;10%;De Dolle Brouwers
+596;Duvel;hogegisting;8,5%;Brouwerij Duvel Moortgat
+597;Duvel Tripel Hop;hogegisting;9,5%;Brouwerij Duvel Moortgat
+598;Echt Kriekenbier;fruitbier;6,8%;Brouwerij Verhaeghe
+599;Echte Kriek;fruitbier;6,8%;Brouwerij Verhaeghe
+600;Edel-Brau;alcoholarm;0,3%;Brouwerij Strubbe
+601;Eerwaarde Pater;waestvlaamsroodbruin;9%;Brouwerij Het Alternatief
+602;Egotripel;tripelblond;6,5%;Brouwerij Groenendael
+603;Egotripel Dark;donker;7,1%;Brouwerij Groenendael
+604;Eeuwige Liefde;sterkdonker;8,2%;Brouwerij DijkWaert
+605;Elfique Ambree;amberlichtbitter;7%;André & Valérie Grolet
+606;Elfique Rose;friskruidig;6,5%;André & Valérie Grolet
+607;Elfique Blonde;blondbitter;6%;André & Valérie Grolet
+608;Elfique Brun;bruin,diversemoutsoorten;8%;André & Valérie Grolet
+609;Egmont;blond;6,5%;Brouwerij Strubbe
+610;Elliot Brew;imperialipa;9%;De Struise Brouwers
+611;El Toro;hogegisting,ipa;6,5%;Brouwerij Contreras
+612;Embrasse;hogegisting,sterkdonker;9%;Brouwerij De Dochter van de Korenaar
+613;Embrasse Embrasse Oak Aged;hogegisting;9%;Brouwerij De Dochter van de Korenaar
+614;Embrasse Special Edition;hogegisting,oakaged;9%;Brouwerij De Dochter van de Korenaar
+615;Ename Blond;abdijbier,hogegisting;6,5%;Brouwerij Roman
+616;Ename Cuvée 974;hogegisting;7%;Brouwerij Roman
+617;Ename Cuvée Rouge;hogegisting;7%;Brouwerij Roman
+618;Ename Dubbel;abdijbier,hogegisting;6,5%;Brouwerij Roman
+619;Ename Pater;abdijbier,hogegisting;%;Brouwerij Roman
+620;Ename Tripel;abdijbier,tripel;8,5%;Brouwerij Roman
+621;Enfant Terriple;blond,tripel;8,2%;Brouwerij De Leite
+622;Enghien Noël;hogegisting,tripel,kerstbier;9%;Brasserie de Silly
+623;Estaminet Premium Pils;pils;5,2%;Brouwerij Palm
+624;Equinox;bruin;8%;Brasserie de la Senne
+625;Eupener Bier;pils;5,2%;Brouwerij Haacht
+626;Export 8;pils;4,7%;Brouwerij Haacht
+627;Extase;imperial/doubleipa;8,5%;Brouwerij De Dochter van de Korenaar
+628;Extra blond;pils;5%;Brouwerij Duvel Moortgat
+629;Extra Pilsener;pils;5%;Brouwerij Duvel Moortgat
+630;Ezel Bruin;bruin;6,5%;Brouwerij Bavik
+631;Ezel Wit;witbier;5,8%;Brouwerij Bavik
+632;Fancy;alcoholarm;0,5%;Brouwerij Bavik
+633;Fantôme;hogegisting;8%;Brasserie Fantôme
+634;Fantôme Chocolat;hogegisting;8%;Brasserie Fantôme
+635;Fantôme Spéciale Noel;hogegisting;8%;Brasserie Fantôme
+636;Faro Boon;faro;4%;Brouwerij Boon
+637;Faro Girardin;faro;5%;Brouwerij Girardin
+638;Faro Lambic Lindemans;faro;4,5%;Brouwerij Lindemans
+639;Faro Perte Totale;faro;5%;Brouwerij Boon
+640;Fasso Blond;blond;6,5%;Brouwerij Vissenaken
+641;Felix Kriek Oud Bruin;kriek;6%;Brouwerij Verhaeghe
+642;Felix Kriekbier;kriek;5,2%;Brouwerij Verhaeghe voor Brouwerij Clarysse (bierfirma)
+643;Felix Oud Bruin;bruin;5,2%;Brouwerij Verhaeghe voor Brouwerij Clarysse (bierfirma)
+644;Felix Speciaal Oudenaards;roodbruin;4,6%;Brouwerij Verhaeghe voor Brouwerij Clarysse (bierfirma)
+645;Femme Fatale;hogegisting,amber;6,5%;Brouwerij De Leite
+646;Ferme Framboos;fruitbier;8%;Brouwerij De Vlier
+647;Ferre;quadrupel;10%;Brouwerij Maenhout
+648;Festina Lente;donkerbruin;7%;Brouwerij Alvinne
+649;Finesse;hogegisting,tripel;8,5%;Brouwerij De Dochter van de Korenaar
+650;Flandrien;hogegisting;7%;Brouwerij Louwaege
+651;Flodder;hogegisting;8%;De Proefbrouwerij
+652;Floreffe Blond;abdijbier;6,3%;Brouwerij Lefebvre
+653;Floreffe Dubbel;abdijbier;6,3%;Brouwerij Lefebvre
+654;Floreffe Prima Melior;abdijbier;8%;Brouwerij Lefebvre
+655;Floreffe Tripel;abdijbier;7,5%;Brouwerij Lefebvre
+656;Floreffe Wit-Bier;witbier,abdijbier;4,5%;Brouwerij Lefebvre
+657;Florilège de Pensée;fruit-enbloemenbier;9%;Brasserie d'Ecaussinnes
+658;Florilège de Rose;fruit-enbloemenbier;9%;Brasserie d'Ecaussinnes
+659;Florilège de Sureau;fruit-enbloemenbier;9%;Brasserie d'Ecaussinnes
+660;Florilège d’Hibiscus;fruit-enbloemenbier;9%;Brasserie d'Ecaussinnes
+661;Floris Cactus;witbier;4,2%;Brouwerij Huyghe
+662;Floris Chocolat;bruin;4,2%;Brouwerij Huyghe
+663;Floris Fraise;fruitbier;3,6%;Brouwerij Huyghe
+664;Floris Framboise;fruitbier;3,7%;Brouwerij Huyghe
+665;Floris Griotte;fruitbier;3%;Brouwerij Huyghe
+666;Floris Honey;honingbier;4,5%;Brouwerij Huyghe
+667;Floris Kriek;fruitbier;3,6%;Brouwerij Huyghe
+668;Floris Mango;fruitbier;3,6%;Brouwerij Huyghe
+669;Floris Ninkeberry;fruitbier;3,6%;Brouwerij Huyghe
+670;Floris Passion;fruitbier;3,6%;Brouwerij Huyghe
+671;Floris Pear;fruitbier;3,5%;Brouwerij Huyghe
+672;Floris Pomme / Apple;fruitbier;3,5%;Brouwerij Huyghe
+673;Floris Witbier;witbier;5%;Brouwerij Huyghe
+674;Florival Blond;abdijbier;7%;Affligem Brouwerij
+675;Florival Bruin;donkerbruin;7%;Affligem Brouwerij
+676;Florival Tripel;tripel;8,5%;Affligem Brouwerij
+677;Florival Winter;roodbruin;9%;Affligem Brouwerij
+678;Flurk Tripel;blond;8%;Flurkbrouwers
+679;Foewerbier;amber;7%;Brouwerij Kerkom
+680;Forestinne Ambrosia;amber;7,5%;Brasserie Caracole
+681;Forestinne Gothika;scotch;7,5%;Brasserie Caracole
+682;Forestinne Mysteria;blondspeciaalbier;7,5%;Brasserie Caracole
+683;Forestinne Nordika;kerstbier;7,5%;Brasserie Caracole
+684;Forestinne Primoria;blond;7,5%;Brasserie Caracole
+685;Fort Lapin 8;tripel;8%;Brouwerij Fort Lapin
+686;Fortun;blond;7,5%;'t Hofbrouwerijke
+687;Fortha Blonde;blond;;Brouwerij Verkest
+688;Fortha Bruin;bruin;;Brouwerij Verkest
+689;Fortha Speciaal;;;Brouwerij Verkest
+690;Four Aces Barley Wine;amber;9%;Brouwerij Het Nest
+691;Four Aces Black IPA;ipa;7%;Brouwerij Het Nest
+692;Four Aces Session IPA;blond,ipa;3,5%;Brouwerij Het Nest
+693;Four Aces White IPA;ipa;5,3%;Brouwerij Het Nest
+694;Framboise Boon;lambiek,fruitbier;6%;Brouwerij Boon
+695;Framboise Girardin;lambiek,fruitbier;5%;Brouwerij Girardin
+696;Framboise Lindemans;lambiek,fruitbier;2,5%;Brouwerij Lindemans
+697;Framboise Max Jacobins;lambiek,fruitbier;3%;Brouwerij Bockor
+698;Framboise Oud Beersel;lambiek,fruitbier;5%;Brouwerij Oud Beersel
+699;Frasnoise Givrée;amber;6,3%;Brasserie La Frasnoise
+700;Frasnoise Rétro;amber;6,3%;Brasserie La Frasnoise
+701;Freaky;brownale;3,8%;Brouwerij Alvinne
+702;Freaky Dark;lambiek;3,8%;Brouwerij Alvinne
+703;Freedom Pils;pils;5,2%;Alken-Maes
+704;Fruitig Bierreke;fruitbier;8,2%;Brouwerij DijkWaert
+705;Fruitig Bierreke;fruitbier;6%;Brouwerij DijkWaert
+706;Gageleer Original;biologischbier;7,5%;De Proefbrouwerij
+707;Gageleer Superior Dark;biologischbier;8,5%;De Proefbrouwerij
+708;Gageleer Sour White No Hops;biologischbier;4,3%;De Proefbrouwerij
+709;Gamma;bruin;6%;Brouwerij Anders!
+710;Gandavum Dry Hopping;blond;7,5%;De Proefbrouwerij voor
+711;Gaspar;amber;8%;Brouwerij Alvinne
+712;Gauloise Ambrée;amber;5,5%;Brasserie Du Bocq
+713;Gauloise Blonde;blond;6,3%;Brasserie Du Bocq
+714;Gauloise Brune;bruin;8,1%;Brasserie Du Bocq
+715;Gauloise Red;fruitbier;8,2%;Brasserie Du Bocq
+716;Gauloise Christmas;kerstbier;8,1%;Brasserie Du Bocq
+717;Gentse Strop;blond;6,9%;Brouwerij Roman
+718;Gentse Tripel;blond;8%;Brouwerij Van Steenberge
+719;Gertrude Ambrée;amber,hogegisting;6%;Brasserie de Bouillon
+720;Gertrude Triple;tripel;7,5%;De Proefbrouwerij
+721;Geuze Cantillon 100% Lambic Bio;geuze;5%;Brouwerij Cantillon
+722;Gueuze Girardin;geuze;5%;Brouwerij Girardin
+723;Gueuze Girardin gefilterd;geuze;5%;Brouwerij Girardin
+724;Geuze Jacobins;geuze;5,5%;Brouwerij Bockor
+725;Geuze Lindemans;geuze;5,5%;Brouwerij Lindemans
+726;Geuze Mariage Parfait;geuze;8%;Brouwerij Boon
+727;Ghulden Cop;donkerblond;6%;Brouwerij De Graal
+728;Gigi speciale;tafelbier;2,5%;Brasserie Gigi
+729;Gildenbier;hogegisting,bruin;7%;Brouwerij Haacht
+730;Ginder Ale;hogegisting,amber;5,1%;InBev
+731;Glutaner;glutenvrijpilsener;5,2%;Brouwerij Huyghe
+732;Goedendag;cuvée;7,5%;Brouwerij Toye
+733;Goedendag;donker;7,5%;Brouwerij Toye
+734;Goedendag;goudblond;8%;Brouwerij Toye
+735;Goeie Koffe;stout;9,5%;Brouwerij DijkWaert
+736;Goliath Blonde;hogegisting,blond;5,5%;Brasserie des Légendes
+737;Goliath Triple;hogegisting,tripel;9%;Brasserie des Légendes
+738;Golden Kenia;pils;5,1%;Brouwerij Huyghe
+739;Golding Campina;pils;4,8%;Alken-Maes
+740;Gold Pils;pils;5%;Brouwerij Bavik
+741;Gordon 0,00;alcoholvrij;0%;Group John Martin
+742;Gordon Finest Chrome;hogegisting;10,5%;Group John Martin
+743;Gordon Finest Copper;hogegisting;6,6%;Group John Martin
+744;Gordon Finest Gold;hogegisting;10%;Group John Martin
+745;Gordon Finest Platinum;hogegisting;12%;Group John Martin
+746;Gordon Finest Red;hogegisting,rood;8,4%;Group John Martin
+747;Gordon Finest Scotch;scotch;8,6%;Group John Martin
+748;Gordon Finest Silver;hogegisting;7,7%;Group John Martin
+749;Gordon Finest Zero;alcoholvrij;0%;Group John Martin
+750;Gordon Five;pils;5%;Group John Martin
+751;Gordon Xmas;kerstbier;8,8%;Brouwerij Palm
+752;Goud Vuur;amber,tripel;9%;Brouwerij DijkWaert
+753;Gouden Arend 125;goudblond;8,5%;Brouwerij De Ryck
+754;Gouden Carolus Ambrio;amber;8%;Brouwerij Het Anker
+755;Gouden Carolus Christmas;donkerspeciaalbier;10,5%;Brouwerij Het Anker
+756;Gouden Carolus Classic;donkerspeciaalbier;8,5%;Brouwerij Het Anker
+757;Gouden Carolus Cuvée van de Keizer Imperial Blond;blondspeciaalbier;10%;Brouwerij Het Anker
+758;Gouden Carolus Cuvée van de Keizer Imperial Dark;robijnroodspeciaalbier;11%;Brouwerij Het Anker
+759;Gouden Carolus Cuvée van de Keizer Whisky Infused;blondspeciaalbier;11,7%;Brouwerij Het Anker
+760;Gouden Carolus Easter;donkerspeciaalbier;10%;Brouwerij Het Anker
+761;Gouden Carolus Hopsinjoor;blondspeciaalbier;8%;Brouwerij Het Anker
+762;Gouden Carolus Tripel;tripel;9%;Brouwerij Het Anker
+763;Gouden Pier Kloeffe;hogegisting,tripel;8,1%;De Proefbrouwerij
+764;Goudster;;6,0%;Brouwerij Anders!
+765;Gouyasse Tradition;hogegisting,blond;6%;Brasserie des Géants
+766;Gouyasse Triple;triple;9%;Brasserie des Géants
+767;Grand Cru Bruocsella;lambiek;5%;Brasserie Cantillon
+768;Green Buzz;biologisch;6%;Brasserie Millevertus
+769;Grelotte;kerstbier;9%;Brasserie Grain d'Orge
+770;Gribousine Blonde;hogegisting;8,5%;Brasserie La Binchoise
+771;Gribousine Brune;hogegisting;8%;Brasserie La Binchoise (voor Brasserie de Malonne)
+772;Gribousine Hiver;winterbier;8,5%;Brasserie La Binchoise (voor Brasserie de Malonne)
+773;Griboval;hogegisting;6,5%;Brouwerij Van Den Bossche
+774;Grimbergen Blond;abdijbierhogegisting;6,7%;Alken-Maes
+775;Grimbergen Cuvée de l'Ermitage;hogegisting;7,5%;Alken-Maes (Heineken - Carlsberg)
+776;Grimbergen Dubbel;hogegisting;6,5%;Alken-Maes (Heineken - Carlsberg)
+777;Grimbergen Goud 8°;hogegisting,blond;8%;Alken-Maes (Heineken - Carlsberg)
+778;Grimbergen Optimo Bruno;hogegisting;10%;Alken-Maes (Heineken - Carlsberg)
+779;Grimbergen Selection;donker,dubbel;7%;Alken-Maes (Heineken - Carlsberg)
+780;Grimbergen Tripel;tripel;9%;Alken-Maes (Heineken - Carlsberg)
+781;Grimbergen Winter;winterbier;6,5%;Alken-Maes (Heineken - Carlsberg)
+782;Grisette Ambrée;amber;5%;Brouwerij St-Feuillien
+783;Grisette Blanche;witbier;5%;Brouwerij St-Feuillien
+784;Grisette Blonde;blond;4,5%;Brouwerij St-Feuillien
+785;Grisette Cérise;fruitbier;3,5%;Brouwerij St-Feuillien
+786;Grisette Country Cool;;3,5%;Brouwerij St-Feuillien
+787;Grisette Fruits des Bois;fruitbier;3,5%;Brouwerij St-Feuillien
+788;Groenen tuinbier;;8,5%;Brouwerij Van Steenberghe
+789;Grotten Flemish Ale;hogegisting,belgianstrongale;7,7%;Brouwerij St-Bernardus
+790;Grottenbier;hogegisting;6,5%;Brouwerij St-Bernardus
+791;Gruut Amber;amber;6,6%;Stadsbrouwerij Gruut
+792;Gruut Blond;blond;5,5%;Stadsbrouwerij Gruut
+793;Gruut Bruin;bruin;8%;Stadsbrouwerij Gruut
+794;Gruut Inferno;goud;9%;Stadsbrouwerij Gruut
+795;Gruut Wit;witbier;5%;Stadsbrouwerij Gruut
+796;Guido;hogegisting;8%;Brouwerij De Regenboog
+797;Gulden Delle;mengbier;8,5%;Brouwerij De Vlier
+798;Gulden Draak;hogegisting,donker;10,5%;Brouwerij Van Steenberge
+799;Gulden Draak Vintage;hogegisting,kerst;17,5%;Brouwerij Van Steenberge
+800;Gulden Draak 9000 Quadruple;hogegisting,donker;10,5%;Brouwerij Van Steenberge
+801;Guldenberg;donkerblondabdijbier;8,5%;Brouwerij De Ranke
+802;Gypsy Rose;amber;9%;Brasserie Sainte-Hélène
+803;Haanse Witte;witbier;5,5%;Brouwerij Strubbe
+804;Halleschelle;blond;8,5%;Brouwerij Alvinne
+805;Halleschelle;blond;8,2%;Brouwerij De Leite
+806;Hanssens Lambic Experimental Cassis;lambiek,fruitbier;4%;Brouwerij Hanssens
+807;Hanssens Lambic Experimental Raspberry;lambiek,fruitbier;4%;Brouwerij Hanssens
+808;Hapkin;hogegisting,blond;8,5%;Alken-Maes
+809;Harelbekenaar van de abdijhoeve;roodbruin,etiketbier;6%;Brouwerij Van Eecke
+810;Hector;hogegisting,tripel;8,2%;Brouwerij De Graal
+811;Heer van Biesen;blond,brett-bier;6,2%;De Proefbrouwerij
+812;Heksemiebier;hogegisting;6,2%;Microbrouwerij Achilles
+813;Hellekapelle;blond;5%;Brouwerij De Bie
+814;Helleketelbier;amber;7%;Brouwerij De Bie
+815;Hengstenbier;roodbruin,hogegisting;5%;Brouwerij Strubbe
+816;Hercule Stout;stout;9%;Brasserie des Légendes
+817;Herkenrode Bruin;abdijbier,bruin;7%;Brouwerij Sint-Jozef
+818;Herkenrode Tripel;abdijbier,tripel;7%;Brouwerij Sint-Jozef
+819;Heroes Amazing Blond;sterkblond;8,5%;Coin Cassé bij Brouwerij Gulden Spoor
+820;Hertalse Poorter;hogegisting,blond;6,5%;Brouwerij Slaghmuylder
+821;Hertenheer;hogegisting,amber;6,5%;Scheldebrouwerij
+822;Hervoise;hogegisting;8,2%;Brasserie Grain d'Orge
+823;Hik Blond;hogegisting,ale;6,5%;Brouwerij Het Alternatief
+824;Hik Bruin;hogegisting;6,5%;Brouwerij Het Alternatief bij Brouwerij De Graal
+825;Himelein;hogegisting;6%;Brouwerij Vissenaken
+826;Hoegaarden;hogegisting,witbier;4,9%;Brouwerij De Kluis
+827;Hoegaarden 0,0;alcoholvrijwitbier;0%;Brouwerij De Kluis
+828;Hoegaarden 0,0 Rosée;alcoholvrijfruitbier;0%;Brouwerij De Kluis
+829;Hoegaarden Citron;fruitbier;3%;Brouwerij De Kluis (InBev)
+830;Hoegaarden Grand Cru;hogegisting;8,5%;Brouwerij De Kluis (InBev)
+831;Hoegaarden Rosée;fruitbier;3%;Brouwerij De Kluis (InBev)
+832;Hoegaarden Spéciale;hogegisting,goudblond;5,7%;Brouwerij De Kluis (InBev)
+833;Hoegaarden Verboden Vrucht;fruitbier;8,8%;Brouwerij De Kluis (InBev)
+834;Hof Korvatunturi;hogegisting,bruin;11%;'t Hofbrouwerijke
+835;Hof ten Dormaal Amber;hogegisting;7,5%;Brouwerij Hof ten Dormaal
+836;Hof ten Dormaal Blond;hogegisting;8%;Brouwerij Hof ten Dormaal
+837;Hof ten Dormaal Donker;hogegisting;8,5%;Brouwerij Hof ten Dormaal
+838;Hof ten Dormaal Winter 10;hogegisting;8%;Brouwerij Hof ten Dormaal
+839;Hofblues;stout;5,5%;'t Hofbrouwerijke
+840;Hofdraak;bruin;6,5%;'t Hofbrouwerijke
+841;Hofelf;tarwetripel;7,5%;'t Hofbrouwerijke
+842;Hofnar;amber;9%;'t Hofbrouwerijke
+843;Hofpint;hogegisting,pils;5,5%;'t Hofbrouwerijke
+844;Hoftrol;amber;6,2%;'t Hofbrouwerijke
+845;Holger;pils;5%;Brouwerij Martens
+846;Holsbeek Lentetripel;tripel;8,5%;Brouwerij De Vlier
+847;Hommelbier;goudkleurig,hogegisting;7,5%;Brouwerij Van Eecke
+848;Hop Harvest;sterkdonker;8%;Brouwerij De Ranke
+849;Hopkikker;;7%;Brouwerij Boelens
+850;Hop Ruiter;tripel;8%;Scheldebrouwerij
+851;Hopjutters Triple Hop;indiapaleale;7,3%;Brouwerij De Graal
+852;Hop-La;tripel;?%;Brouwerij Vermylen
+853;Hoppa Hontas;indiapaleale;6,5%;Brouwerij Maenhout
+854;Hoppe;pils;5%;Brouwerij Van Steenberge
+855;Hoppesnoet;belgianale;8,5%;Huisbrouwerij Den Tseut
+856;Hopus;hogegisting,goudblond;8,3%;Brouwerij Lefebvre
+857;Hopverdomme;imperial/doubleipa;7,5%;De Struise Brouwers
+858;Hop Verdomme IPA;ipa;7%;Brouwerij Kerkom
+859;Horal's Oude Geuze Mega Blend;geuze;7%;3 Fonteinen, Brouwerij Boon, Timmermans, Oud Beersel, Lindemans, De Troch, De Cam, Hanssens
+860;Horse-Ale;spécialebelge;5%;AB-InBev
+861;Horst bier;lagegisting,blond;6,5%;Brouwerij Haacht
+862;Hotteuse Grand Cru;donker;8%;Affligem Brouwerij
+863;Houblon Chouffe;indiapaleale;9%;Brouwerij d'Achouffe
+864;Hougaerdse Das;hogegisting,amber;5,1%;Brouwerij De Kluis
+865;Houten Kop;speciaalbier;6,5%;Brouwerij Strubbe
+866;Huardis;witbier;5,2%;Brouwerij Nieuwhuys
+867;Ichtegem’s grand cru;;6,5%;Brouwerij Strubbe
+868;Ichtegem's Oud Bruin;roodbruin,hogegisting;5%;Brouwerij Strubbe
+869;Ignis & Flamma;ipa;7%;De Struise Brouwers
+870;Inglorious Quad;quadrupel;10,3%;Brouwerij Anders! voor Inglorious Brew Stars
+871;IM-JIN;amber;7,5%;Brasserie Grain d'Orge
+872;Iris;spontanegisting,amber;6%;Brouwerij Cantillon
+873;Irma;fruitbier;6%;voor bierfirma Vacas
+874;Itters Bruin;tafelbier;1,3%;Brouwerij Sint-Jozef
+875;Jack'Ouille;blond;5,5%;Brasserie de Bouillon
+876;Jack-Op;;;Brouwerij Jack-Op
+877;Jack-Op;gemengdegisting;5,5%;Brouwerij Boon
+878;Jaded Stillwater Artisanal;belgo/americanale;10%;De Struise Brouwers
+879;Jambe-de-bois;tripel;8%;Brouwerij De Ranke
+880;Jan Buuc;etiketbier;7,5%;Brouwerij Het Sas
+881;Jan De Lichte;witbier;7%;Brouwerij De Glazen Toren
+882;Jan van Gent;blond;5,5%;Brouwerij Liefmans
+883;Jan van Oudenaarde;blond;8%;Brouwerij Slaapmutske
+884;Janus Triple;tripel;8%;Brouwerij De Ranke
+885;Jean Nicot;tripel,tabaksbier;8,5%;Brouwerij De Graal
+886;Jeanke;blonde;;Brasserie St. Jean
+887;Jef;saison;6%;Brouwerij Anders! voor brouwerij De Neus
+888;Jessenhofke Arvum;hogegisting,biologisch;6%;De Proefbrouwerij voor Brouwerij Jessenhofke
+889;Jessenhofke Bière de Garde;hogegisting,biologisch;9%;De Proefbrouwerij voor Brouwerij Jessenhofke
+890;Jessenhofke Bruin;hogegisting,biologisch;7%;De Proefbrouwerij
+891;Jessenhofke Lichtblond;;3,5%;De Proefbrouwerij voor Brouwerij Jessenhofke
+892;Jessenhofke Maya;hogegisting,biologisch;6%;De Proefbrouwerij voor Brouwerij Jessenhofke
+893;Jessenhofke Pimpernelle;hogegisting,biologisch;8%;De Proefbrouwerij voor Brouwerij Jessenhofke
+894;Jessenhofke Reserva;hogegisting,biologisch;9%;De Proefbrouwerij voor Brouwerij Jessenhofke
+895;Jessenhofke Schelpje;hogegisting,biologisch;9%;De Proefbrouwerij voor Brouwerij Jessenhofke
+896;Jessenhofke Tafelbier;;3,5%;De Proefbrouwerij voor Brouwerij Jessenhofke
+897;Jessenhofke Tripel;hogegisting,biologisch,tripel;8%;De Proefbrouwerij voor Brouwerij Jessenhofke
+898;Jezuwiet;hogegisting,tripel;8,5%;Brouwerij Boelens
+899;Johannes;streekbier;6,5%;Brouwerij De Graal voor bierfirma Johannes
+900;Joseph;hogegisting,blond,spelt;5,4%;Brasserie de Silenrieux
+901;Joseph Bio;hogegisting,blond,spelt;5,4%;Brasserie de Silenrieux
+902;Joup;hogegisting;7,5%;Brasserie Grain d'Orge
+903;Julius;hogegisting,bruin;8,7%;Brouwerij De Kluis
+904;Judas;hogegisting,okerblond;8,5%;Alken-Maes
+905;Jules de Bananes;fruitbier,wit;4,9%;Brouwerij De Ryck
+906;Jules de Kriek;fruitbier,robijnrood;4,9%;Brouwerij De Ryck
+907;Jupiler;pils;5,2%;Brouwerij Piedbœuf
+908;Jupiler Blue;lagegisting,pils;3,3%;Brouwerij Piedbœuf (InBev)
+909;Jupiler NA;alcoholarm;0,5%;Brouwerij Piedbœuf (InBev)
+910;Jupiler New Tauro;lagegisting;6,2%;Inbev
+911;Jupiler Tauro;lagegisting;8,3%;Inbev
+912;Kalle;tripel;8%;Brouwerij Gulden Spoor
+913;Kamielke - Zomergems Blond;blond;7,3%;Brouwerij De Feniks
+914;Kamielke - Hopkamiel 2017;blond;8%;Brouwerij De Feniks
+915;Kameleon Amber;biologisch;6,5%;Brouwerij Den Hopperd
+916;Kameleon Donker;biologisch;6%;Brouwerij Den Hopperd
+917;Kameleon Ginseng;biologisch;6,5%;Brouwerij Den Hopperd
+918;Kameleon Tripel;biologisch;8,5%;Brouwerij Den Hopperd
+919;Kamil;hogegisting;6,5%;De Proefbrouwerij
+920;Kapel van Viven Blond;blond;6,8%;De Proefbrouwerij
+921;Kapel van Viven Bruin;bruin;6,6%;De Proefbrouwerij voor Beerdevelopment Viven
+922;Kapittel Abt;bruin;10%;Brouwerij Van Eecke
+923;Kapittel Blond;blond;6,5%;Brouwerij Van Eecke
+924;Kapittel Dubbel;bruin;7,5%;Brouwerij Van Eecke
+925;Kapittel Pater;bruin;6%;Brouwerij Van Eecke
+926;Kapittel Prior;bruin;9%;Brouwerij Van Eecke
+927;Kapittel Tripel Abt;tripel;10%;Brouwerij Van Eecke
+928;Karlsquell;pils;4,6%;Brouwerij Martens
+929;Kastaar;blond;6%;Brouwerij De Block
+930;Kasteel Blond;blond,hogegisting;7%;Brouwerij Van Honsebrouck
+931;Kasteel Cuvée du Château;donker;11%;Brouwerij Van Honsebrouck
+932;Kasteel Donker;donker;11%;Brouwerij Van Honsebrouck
+933;Kasteel Hoppy;blond;6,5%;Brouwerij Van Honsebrouck
+934;Kasteel Rouge;kriek;8%;Brouwerij Van Honsebrouck
+935;Kasteel Tripel;tripel;11%;Brouwerij Van Honsebrouck
+936;Kasteelbier Blond;blond;11%;Brouwerij Van Honsebrouck
+937;Kasteelbier Bruin;bruin;11%;Brouwerij Van Honsebrouck
+938;Kasteelbier Ooidonk;etiketbier;11%;Brouwerij Van Honsebrouck
+939;Kastel;amber;7%;De Proefbrouwerij
+940;Kastels pompoenbier;tarwebier,metpompoen;6%;De Proefbrouwerij in opdracht van De Kastelse Biervereniging
+941;Katje Special;hogegisting,ale;6%;Brouwerij Het Sas
+942;Kd (kadee) blond;hogegisting,blond;6,2%;Brouwerij Dilewyns
+943;Kd (kadee) bruin;hogegisting,ale;7%;Brouwerij Dilewyns voor brouwerij Kadee
+944;Kd (kadee) tripel;hogegisting,tripel;8%;Brouwerij Dilewyns voor brouwerij Kadee
+945;Keikop Saison;saison;6,5%;Brouwerij De Graal
+946;Keikop Tripel;tripel;8,7%;Brouwerij De Graal voor Brouwerij De Kassei
+947;Keikop Weizen;amber;6%;Brouwerij De Graal voor Brouwerij De Kassei
+948;Keikoppenbier;blond,biologisch;6,1%;Brouwerij De Plukker
+949;Keizer Karel;bruin;9%;Brouwerij Haacht
+950;Keizer Karel Robijn Rood;robijnrood;8,5%;Brouwerij Haacht
+951;Keizer Karel Goud Blond;blond;8,5%;Brouwerij Haacht
+952;Keizersberg;abdijbier;9%;Brouwerij Van Steenberge
+953;Kempisch Vuur 3-Dubbel;bruin;7,5%;De Proefbrouwerij
+954;Kempisch Vuur Haverstout;donkerestout;6,5%;De Proefbrouwerij in opdracht van Brouwerij Pirlot
+955;Kempisch Vuur Hoppergod;blond;6%;De Proefbrouwerij in opdracht van Brouwerij Pirlot
+956;Kempisch Vuur Jeneverbes;blond;6,5%;De Proefbrouwerij in opdracht van Brouwerij Pirlot
+957;Kempisch Vuur Tripel;tripel;7,5%;De Proefbrouwerij in opdracht van Brouwerij Pirlot (vroeger
+958;Kerasus;donkerrood;5,5%;Brouwerij Alvinne
+959;Kerelsbier Donker;etiketbier;6,4%;Brouwerij Het Sas
+960;Kerelsbier Licht;etiketbier;6,4%;Brouwerij Het Sas
+961;Kerkomse Tripel;tripel;9%;Brouwerij Kerkom
+962;Kerstpater;hogegisting,kerstbier;9%;Brouwerij Van Den Bossche
+963;Kerstbie;donker,kerstbier;8%;Brouwerij De Bie
+964;KerstSmiske;donker,kerstbier;11%;Brouwerij Smisje
+965;Kerstvuur;kerstbier;8%;De Proefbrouwerij
+966;Kessel 69;hogegisting;6,9%;Brouwerij De Vlier
+967;Kessel Blond;hogegisting;7,5%;Brouwerij De Vlier
+968;Keyte;blond,hogegisting;7,5%;Brouwerij Strubbe
+969;Keyte-Dobbel-Tripel;robijnrood,hogegisting;9,2%;Brouwerij Strubbe
+970;Klets blond;bovengisting;8%;Brouwerij Bier & Karakter bij
+971;Klets bruin;bovengisting;6,5%;Brouwerij Bier & Karakter bij
+972;Klets Extra Hop;ipa;8%;Brouwerij Bier & Karakter bij
+973;Kleveretien;hogegisting,winterbier;10%;De Scheldebrouwerij
+974;Klingse Kalsei;hogegisting,streekbier;8%;Brouwerij Van Steenberge
+975;Kloefkapper;tarwebier;5,7%;Brouwerij 't Paenhuys
+976;Kloeke Blonde;hogegisting,belgischeblondeale;6%;De Struise Brouwers
+977;Klokke Roeland;donker;11,5%;Brouwerij Van Steenberge
+978;Klooster van Viven;bruin;6,6%;De Proefbrouwerij
+979;Koantjesbier;hogegisting;7%;De Proefbrouwerij voor Bierfirma Vacas
+980;KoekeDam;saison;6,5%;De Scheldebrouwerij
+981;Koekelaring;hogegisting;6,5%;Brouwerij De Graal
+982;Koeketiene;tripel;8,5%;Brouwerij Maenhout
+983;Koerseklakske;hogegisting;5,5%;Brouwerij 't Gaverhopke
+984;Korsakoff;ongefilterdblondbier;6,5%;'t Hofbrouwerijke
+985;Kortrijk-dUtsel;brutbier;8,5%;Brouwerij Kortrijk-dUtsel
+986;Kouter Lorem;tripel;8,8%;Brouwerij Danny voor Bierfirma Geestrijken van de Kouter
+987;Krab;blondeale;5,2%;Scheldebrouwerij
+988;Kriek Belgique;fruitbier;3,5%;Brasserie du Bocq
+989;Kriek Boon;lambiek;4,5%;Brouwerij Boon
+990;Kriek Cantillon 100% Lambic;lambiek;5,5%;Brouwerij Cantillon
+991;Kriek De Ranke;fruitbier;4,5%;Brouwerij De Ranke
+992;Kriek de Silenrieux;fruitbier;4,5%;Brasserie de Silenrieux
+993;Kriek Fantastiek;fruitbier,roodbruin;4,9%;Brouwerij De Ryck
+994;Kriek Girardin;lambiek;5%;Brouwerij Girardin
+995;Kriek Jacobins;lambiek;4,5%;Brouwerij Bockor
+996;Kriek Lindemans;lambiek;3,5%;Brouwerij Lindemans
+997;Kriek Mariage Parfait;lambiek;8%;Brouwerij Boon
+998;Kriekedebie;fruitbier;4,4%;Brouwerij De Bie
+999;Kriekenbier;fruitbier,lagegisting;4%;Brouwerij Sint-Jozef
+1000;Kriekenbier;fruitbier;4,5%;Brouwerij Strubbe
+1001;Kriek Max;fruitbier;3,2%;Brouwerij Bockor
+1002;Kristoffel Blond;blond,bovengisting;6%;Brouwerij Martens (Bocholt)
+1003;Kristoffel Donker;donker,bovengisting;6%;Brouwerij Martens (Bocholt)
+1004;Kristoffel Witbier;witbier,bovengisting;5%;Brouwerij Martens (Bocholt)
+1005;Kwak (bier);speciaalbier,hogegisting;8,4%;Brouwerij Bosteels
+1006;Kwaremont;blond,hogegisting;6,6%;Brouwerij Bavik
+1007;Kwets;blondtarwebier;6,8%;Brouwerij Van Steenberge voor
+1008;Kwibus Blond;blond,hogegisting;6,4%;Brouwerij Danny
+1009;Kwibus Donker;hogegisting;6,4%;Brouwerij Danny
+1010;Kwibus Tripel;hogegisting;8,5%;Brouwerij Danny
+1011;La Barbiot Ambrée;hogegisting;9,5%;Brasserie la Barbiot
+1012;La Barbiot Blonde;hogegisting;8%;Brasserie la Barbiot
+1013;La Binchoise Blonde;hogegisting,blond;6,2%;Brouwerij La Binchoise
+1014;La Binchoise Brune;hogegisting;7,7%;Brouwerij La Binchoise
+1015;La Binchoise Organic’ Brune;hogegisting,biologisch;7%;Brouwerij La Binchoise
+1016;La Binchoise Organic’ Miel ;hogegisting,biologisch,honingbier;8,5%;Brouwerij La Binchoise
+1017;La Binchoise Organic’ Triple;hogegisting,biologisch,tripel;8,5%;Brouwerij La Binchoise
+1018;La Binchoise Spéciale Noël;hogegisting,kerstbier;9%;Brouwerij La Binchoise
+1019;La Binchoise Triple;hogegisting,tripel;8,5%;Brouwerij La Binchoise
+1020;La Binchoise XO;hogegisting;12%;Brouwerij La Binchoise
+1021;La Botteresse Ambrée;hogegisting;8,5%;Brasserie la Botteresse de Sur-les-bois
+1022;La Botteresse de Noël;hogegisting,kerstbier;10,5%;Brasserie la Botteresse de Sur-les-bois
+1023;La Botteresse Blonde;hogegisting;7,5%;Brasserie la Botteresse de Sur-les-bois
+1024;La Botteresse Brune;hogegisting;9,5%;Brasserie la Botteresse de Sur-les-bois
+1025;La Botteresse aux cerises;hogegisting,fruitbier;5,5%;Brasserie la Botteresse de Sur-les-bois
+1026;La Botteresse Ambrée au miel;hogegisting,honingbier;8,5%;Brasserie la Botteresse de Sur-les-bois
+1027;La Botteresse aux pommes;hogegisting,fruitbier;5,4%;Brasserie la Botteresse de Sur-les-bois
+1028;La Blanche des Saisis;witbier;6,2%;Brasserie Ellezelloise
+1029;La Bouillonnaise;bruin,hogegisting;7%;Brasserie de Bouillon
+1030;La Chérie;fruitbier;5%;Brasserie Val de Sambre
+1031;La Chèvenis;hogegisting;6%;Brasserie de Bouillon
+1032;La Chouffe;blond,hogegisting;8%;Brouwerij d'Achouffe
+1033;La Corne du Bois des Pendus Blonde;hogegisting,blond;5,9%;Brasserie d'Ebly
+1034;La Corne du Bois des Pendus Triple;hogegisting,triple;7%;Brasserie d'Ebly
+1035;La Cré Tonnerre;hogegisting,tripel;7%;Brasserie de Silly
+1036;La Divine;hogegisting,amber;9,5%;Brasserie de Silly
+1037;La Djean Triple;amber;9%;Brasserie Sainte-Hélène
+1038;La Douce Vertus;hogegisting,ale;7%;Brasserie Millevertus
+1039;La Fumette;hogegisting,rauchbier;6,5%;Brasserie Millevertus
+1040;La Gueularde;hogegisting,blond;8%;Cafés Preko
+1041;La Grognarde;hogegisting;5,5%;Brasserie Sainte-Hélène
+1042;La Guillotine;sterkblond;8,5%;Brouwerij Huyghe
+1043;La Jamboise de Bister;bleekblond;6,5%;Brouwerij Lefebvre
+1044;La Loubécoise;donker,hogegisting;8%;Brasserie d'Ecaussinnes
+1045;La Mac Vertus;stout;4,8%;Brasserie Millevertus
+1046;La Médiévale;amber,hogegisting;6%;Brasserie de Bouillon
+1047;La Mère Vertus;tripel;7%;Brasserie Millevertus
+1048;La Moneuse;saison,amber;8%;Brasserie de Blaugies
+1049;La Moneuse Spéciale Noël;saison,bruin,hogegisting;8%;Brasserie de Blaugies
+1050;La Moraipire;tripel;8,5%;Brasserie Millevertus
+1051;La Namuroise;hogegisting;7%;Les Artisans Brasseurs
+1052;La Noire Fontaine;hogegisting;8%;Brasserie de Bouillon
+1053;La Penneffoise;fruitbier;8%;Brasserie d'Ecaussinnes
+1054;La Pils des 3 Canaux;pils;4,5%;Authentique Brasserie
+1055;La Poiluchette Blonde Cuvéé du Château;hogegisting;7,5%;Brouwerij Huyghe
+1056;La Poiluchette Brune;hogegisting;7,5%;Brouwerij Huyghe
+1057;La Poirette de Fontaine;hogegisting,fruibier;8,5%;Brasserie la Botteresse de Sur-les-bois
+1058;La Prime;hogegisting,winterbier;8,5%;Brasserie Sainte-Hélène
+1059;La Rulles Blonde;hogegisting;7%;Brasserie Artisanale de Rulles
+1060;La Rulles Brune;hogegisting;6,5%;Brasserie Artisanale de Rulles
+1061;La Rulles Cuvée Meilleurs Vœux;hogegisting,winterbier;7,3%;Brasserie Artisanale de Rulles
+1062;La Rulles Estivale;hogegisting;5,2%;Brasserie Artisanale de Rulles
+1063;La Rulles La Grande 10;hogegisting,belgianstrongpaleale;10%;Brasserie Artisanale de Rulles
+1064;La Rulles Triple;hogegisting,tripel;8,4%;Brasserie Artisanale de Rulles
+1065;La Safranaise;hogegisting,kruidenbier;7%;Brasserie Millevertus
+1066;La Saison des Chasses Ambrée;saison;7%;Brasserie de Bouillon
+1067;La Saison des Chasses Blonde;saison;6%;Brasserie de Bouillon
+1068;La Sambresse Blonde;hogegisting;8%;Brouwerij Brootcoorens
+1069;La Spéciale Fêtes;winterbier;8,5%;Brasserie de Bouillon
+1070;La Trompeuse;hogegisting;6,9%;Brasserie Jean Tout Seul
+1071;La Troufette Belle d'été;hogegisting;6%;Brasserie de Bastogne
+1072;La Troufette Blonde;hogegisting;6%;Brasserie de Bastogne
+1073;La Troufette Brune;hogegisting,winterbier;6,8%;Brasserie de Bastogne
+1074;La Troufette Givrée;hogegisting;8%;Brasserie de Bastogne
+1075;La Troufette Rousse;hogegisting;7,8%;Brasserie de Bastogne
+1076;La Vauban;abdijbier;6%;Brasserie de Bouillon
+1077;La Vermontoise;saison;6%;Brasserie de Blaugies
+1078;La Waterlootoise;tripel;9%;Brouwerij Van Steenberge
+1079;Lam Gods;bruindubbel;6,8%;Brouwerij Van Steenberge
+1080;Lam Gods;bruindubbel;8%;Brouwerij Van Steenberge
+1081;L'Amarante;hogegisting,kruidenbier;8%;Brasserie Millevertus
+1082;Lambinus;hogegisting,honingbier;8%;De Proefbrouwerij
+1083;Lamme Goedzak;hogegisting;7%;De Scheldebrouwerij
+1084;Lamoral degmont;hogegisting,amberblond;8%;Brouwerij Van Den Bossche
+1085;Ledeberg Tripel;tripel;6%;Brouwerij Van Steenberghe
+1086;Leeuw Pilsener;pilsener;5%;Brouwerij Haacht
+1087;Leeuwse Witte;witbier;5%;Affligem Brouwerij
+1088;Leffe Blond;blond,abdijbier;6,6%;AB InBev
+1089;Leffe Bruin;bruin,abdijbier;6,5%;AB InBev (vroeger Brouwerij van Lootvoet en Brouwerij Artois)
+1090;Leffe Des Vignes;abdijbier;5%;AB InBev
+1091;Leffe Kerst;kerstbier,abdijbier;6,5%;AB InBev
+1092;Leffe Lente;abdijbier;6,5%;AB InBev
+1093;Leffe Nectar;abdijbier;5,5%;AB InBev
+1094;Leffe Radieuse;abdijbier;8,2%;AB InBev  (vroeger Brouwerij van Lootvoet en Brouwerij Artois)
+1095;Leffe Royale;blond,abdijbier;7,5%;AB InBev
+1096;Leffe Royale Whitbread Golding;blond,abdijbier;7,5%;AB InBev
+1097;Leffe Royale Casade IPA;ipaabdijbier;7,5%;AB InBev
+1098;Leffe Royale Mapuche;abdijbier;7,5%;AB InBev
+1099;Leffe Royale Mout Hood;abdijbierwinterbier;7,5%;AB InBev
+1100;Leffe Royale Crystal;abdijbierzomerbier;7,5%;AB InBev
+1101;Leffe Ruby;fruitbier,abdijbier;6,5%;AB InBev
+1102;Leffe Tripel;tripel,abdijbier;8,4%;AB InBev (vroeger Brouwerij van Lootvoet, Brouwerij Artois, Brasserie du Bocq in Purnode en
+1103;Leffe Vieille Cuvée;amber;8,2%;AB InBev (vroeger Brouwerij van Lootvoet en Brouwerij Artois)
+1104;Leffe 9°;hogegisting;9%;AB InBev
+1105;Leireken Boekweit Blond;amber,hogegisting,boekweit,biologisch;6%;Brouwerij Strubbe
+1106;Leireken Boekweit Bruin;bruin,hogegisting,boekweit,biologisch;6%;Brouwerij Strubbe voor Guldenboot nv (vroeger Brasserie de Silenrieux)
+1107;Leireken Lager Bio;pils,biologisch;5,2%;Brouwerij Strubbe voor Guldenboot nv (vroeger Brasserie de Silenrieux)
+1108;Leireken Wilde Vruchten;fruitbier,hogegisting,biologisch;5,2%;Brouwerij Strubbe voor Guldenboot nv (vroeger Brasserie de Silenrieux)
+1109;Leireken Witte Spelt;blond,hogegisting,spelt;5%;Brouwerij Strubbe voor Guldenboot nv (vroeger Brasserie de Silenrieux)
+1110;L'Enfant Terrible;hogegisting,oakaged;7%;Brouwerij De Dochter van de Korenaar
+1111;Le Pavé de l'Ours;hogegisting,specialebelge;7,5%;Brasserie de Silenrieux
+1112;Lesage Blond;hogegisting,tripel;7%;De Proefbrouwerij
+1113;Lesage Dubbel;hogegisting;7,5%;De Proefbrouwerij voor bierfirma Lesage
+1114;Leute Bokbier;roodbruin,hogegisting;7,5%;Brouwerij Van Steenberge
+1115;Levir;blond,hogegisting;8,4%;Brouwerij Den Buiten
+1116;Li Berwette;amber,hogegisting;8%;Brasserie Saint-Monon
+1117;Li Berwette di Noyè;donkerkerstbier;8,5%;Brasserie Saint-Monon
+1118;Li P'tite Gayoûle;saison;5,5%;Brouwerij De Ranke
+1119;Liefmans Cuvée-Brut;fruitbier;6%;Brouwerij Liefmans
+1120;Liefmans Frambozenbier;fruitbier;5,4%;Brouwerij Liefmans
+1121;Liefmans Fruitesse Rood;fruitbier;4,2%;Brouwerij Liefmans
+1122;Liefmans Goudenband;bruin;8%;Brouwerij Liefmans
+1123;Liefmans Ijzerenband;bruin;8%;Brouwerij Liefmans
+1124;Liefmans Kriek;bruin;6%;Brouwerij Liefmans
+1125;Liefmans Kriek Brute;bruin;6%;Brouwerij Liefmans
+1126;Liefmans Oud Bruin;oudbruin;5%;Brouwerij Liefmans
+1127;Liene;amber,tripel;7%;'t Hofbrouwerijke
+1128;Liers Kerstbier;amber,kerstbier;6%;Brouwerij Strubbe
+1129;Lily Blue;hogegisting;7,5%;Brasserie Sainte-Hélène
+1130;Limburgse Witte;hogegisting;5%;Brouwerij Sint-Jozef
+1131;Limerick;blond;8%;De Proefbrouwerij voor bierfirma Bas-bieren
+1132;Lindemans Apple;lambiek;3,5%;Brouwerij Lindemans
+1133;Lindemans Cassis;fruitbier;3,5%;Brouwerij Lindemans
+1134;Lindemans Framboise;lambiek;2,5%;Brouwerij Lindemans
+1135;Lindemans Kriek;kriek;4%;Brouwerij Lindemans
+1136;Lindemans Pecheresse;fruitbier;2,5%;Brouwerij Lindemans
+1137;Liter van Pallieter;tripel;8%;Microbrouwerij Achilles
+1138;Living Tripel;tripel;9%;De Proefbrouwerij
+1139;Livinus;blond,hogegisting;10%;Brouwerij Van den Bossche
+1140;Livinus Blonde;tripel;10%;Brouwerij Van Eecke
+1141;Livinus Brune;donker;9%;Brouwerij Van Eecke
+1142;Lokernaere;etiketbier;5,5%;Brouwerij Het Sas
+1143;Lost in Spice;blond;5,2%;Brouwerij De Koninck
+1144;Loterbol 6°;hogegisting;6%;Brouwerij Loterbol
+1145;Loterbol Blond;hogegisting;8%;Brouwerij Loterbol
+1146;Loterbol Bruin;hogegisting;8%;Brouwerij Loterbol
+1147;Lou Pepe;geuze;5%;Brasserie Cantillon
+1148;Lousberg;tripel;8%;De Proefbrouwerij
+1149;Louwaege Dubbel Blond;tafelbier;1,4%;Brouwerij Louwaege
+1150;Louwaege Faro;tafelbier;1,4%;Brouwerij Louwaege
+1151;Louwaege's Kriek;kriek;4,3%;Brouwerijen Alken-Maes
+1152;Louwaege Stout;stout;4,8%;Brouwerij Louwaege
+1153;Lozen Boer;hogegisting,quadrupel;10%;De Proefbrouwerij
+1154; Lozen Boer Abt;hogegisting,quadrupel;10%;De Proefbrouwerij voor de familie Neyt
+1155;Lozen Boer Excellence;hogegisting,quadrupel;10%;De Proefbrouwerij
+1156;Lozen Boer Cuvée Juchepie;hogegisting,quadrupel;10%;De Proefbrouwerij
+1157;Lucifer;amber,hogegisting;8,4%;Brouwerij Vondel
+1158;Lucifer;blond,hogegisting;8,4%;Brouwerij Het Anker
+1159;Lupulus Blonde;hogegisting;8,5%;Brasserie les 3 Fourquets
+1160;Lupulus Brune;tripel;8,5%;Brasserie les 3 Fourquets
+1161;Lupulus Hibernatus;bruin;9%;Brasserie les 3 Fourquets
+1162;Lupulus Organicus;blondbio;8,5%;Brasserie les 3 Fourquets
+1163;Lupulus Hopera;blond;6%;Brasserie les 3 Fourquets
+1164;Lupulus Special Brew 2012;tripel;10%;Brasserie les 3 Fourquets
+1165;Lusja;bruin;7%;Bierfirma NoordSter bij
+1166;Lustem;tarwebier;7%;‘t Hofbrouwerijke
+1167;Ma Mère Spéciale;donkerblond;6%;Brouwerij De Leite
+1168;Maerlant;tripel;9%;Brouwerij Van Steenberge
+1169;Maes;pils;5,2%;Alken-Maes
+1170;Maes Nature;tafelbier;1,5%;Alken-Maes (Heineken)
+1171;Maes Zero;alcoholvrijbier;0%;Alken-Maes (Heineken)
+1172;Maes Radler;limonadebier;2%;Alken-Maes (Heineken)
+1173;Mageleno;blond;7,5%;Huisbrouwerij Sint Canarus
+1174;Malheur 6;goudblond;6%;Brouwerij De Landtsheer
+1175;Malheur 8;blond;8%;Brouwerij De Landtsheer
+1176;Malheur 10;blond;10%;Brouwerij De Landtsheer
+1177;Malheur 12;roodbruin;12%;Brouwerij De Landtsheer
+1178;Malheur Bière Brut;blond;11%;Brouwerij De Landtsheer
+1179;Malheur Dark Brut;donkerbruin;12%;Brouwerij De Landtsheer
+1180;Malheur Cuvée Royale;blond;9%;Brouwerij De Landtsheer
+1181;Malmedy Triple;tripel;9,0%;Brasserie de Bellevaux
+1182;Maltosa;bruin,tafelbier;1,2%;Brouwerij Haacht
+1183;Mamouche;lambiek;5%;Brouwerij Cantillon
+1184;Maneblusser;blond;6%;Brouwerij Het Anker
+1185;Manneken Pils;pils;5,2%;Brouwerij Lefebvre
+1186;Mano Negra;imperialstout;10%;Brouwerij Alvinne
+1187;Manten;hogegisting;6%;Brouwerij Gulden Spoor
+1188;Marckloff;hogegisting;6,5%;Brasserie La Ferme au Chêne
+1189;Maredsous blond;blond;6%;brouwerij du Faleau
+1190;Maredsous bruin;bruin;8%;brouwerij du Faleau
+1191;Maredsous blond;blond;6%;Brouwerij Duvel Moortgat
+1192;Maredsous bruin;bruin;8%;Brouwerij Duvel Moortgat
+1193;Maredsous tripel;tripel;10%;Brouwerij Duvel Moortgat
+1194;Mariënrode Double;bruin;8%;Brouwerij Anders!
+1195;Mariënrode Quadruple;bruin;12%;Brouwerij Anders! voor Halen Breweries
+1196;Mariënrode Triple;tripel;9,1%;Brouwerij Anders! voor Halen Breweries
+1197;Maris Otter Aperitiefbier;blond;5%;De Proefbrouwerij
+1198;Margriet;etiketbier;6,5%;Brouwerij Het Anker
+1199;Martens Pils;pils;5%;Brouwerij Martens (Bocholt)
+1200;Martin’s Blond;hogegisting;6%;Group John Martin
+1201;Martin’s IPA;hogegisting;9,9%;Group John Martin
+1202;Martin’s Pale Ale;hogegisting;5,5%;Group John Martin
+1203;Martin’s Real Ale;hogegisting,ongefiltert;4,5%;Group John Martin
+1204;Mater Witbier;tarwebier;5%;Brouwerij Roman
+1205;Mc Chouffe;donker;8,0%;Brasserie d'Achouffe
+1206;Mc Thals;blond,hogegisting;9,5%;Brouwerij DijkWaert
+1207;Melchior;amber;11%;Brouwerij Alvinne
+1208;Melchior Oak Aged;oakaged;11%;Brouwerij Alvinne
+1209;Melse God;blond;6,5%;Brouwerij Huyghe
+1210;Merck toch hoe sterck;gerstewijn;9%;De Scheldebrouwerij
+1211;Métisse Saison;saison;5,7%;De Lion à Plume bij
+1212;Meuuh!;witbier;5,5%;Brasserie Saint-Monon
+1213;Mistinguett;hogegisting;6,5%;Brasserie Sainte-Hélène
+1214;Modeste Bruin;bruin,biologisch;7,8%;Brouwerij Strubbe
+1215;Modeste Tripel;tripel,biologisch;8,4%;Brouwerij Strubbe
+1216;Moeder Overste;blond;8%;Brouwerij Lefebvre
+1217;Moinette Blonde;blond;8%;Brasserie Dupont
+1218;Moinette Brune;bruin;8,5%;Brasserie Dupont
+1219;Moinette Biologique;blond,biologisch;7,5%;Brasserie Dupont
+1220;Mokke Blond;blond;6,5%;Brouwerij Pirlot
+1221;Molse Tripel;tripel;8,3%;Scheldebrouwerij
+1222;Mongozo Banana;fruitbier;4,5%;Brouwerij Huyghe
+1223;Mongozo Coconut;fruitbier;3,5%;Brouwerij Huyghe
+1224;Mongozo Mango;fruitbier;3,6%;Brouwerij Huyghe
+1225;Mongozo Palmnut;fruitbier;7%;Brouwerij Huyghe
+1226;Mongozo Premium Pilsener;pils,biologisch;5%;Brouwerij Huyghe
+1227;Mongozo Quinua;fruitbier;5,9%;Brouwerij Huyghe
+1228;Monk's Stout;stout;5,2%;Brasserie Dupont
+1229;Mont-Saint-Aubert;tripel;8%;Brasserie de Brunehaut
+1230;Montagnarde;amber;9%;Brasserie de l'Abbaye des Rocs
+1231;Montagnarde Altitude 6;blond;6%;Brasserie de l'Abbaye des Rocs
+1232;Morpheus Dark;hogegisting;10,2%;Brouwerij Alvinne
+1233;Morpheus Extra RA;hogegisting;7,1%;Brouwerij Alvinne
+1234;Morpheus Tripel;hogegisting,tripel;8,7%;Brouwerij Alvinne
+1235;Morpheus Wild;vlaamsoudbruin;5,9%;Brouwerij Alvinne
+1236;Mort Subite Cassis;fruitbier;4,5%;Brouwerijen Alken-Maes
+1237;Mort Subite Faro;faro;4%;Alken-Maes
+1238;Mort Subite Framboise;fruitbier;5%;Alken-Maes
+1239;Mort Subite Gueuze;geuze;4,5%;Alken-Maes
+1240;Mort Subite Kriek;fruitbier;4,5%;Alken-Maes
+1241;Mort Subite Original Gueuze;geuze;4,5%;Alken-Maes
+1242;Mort Subite Original Kriek;fruitbier;4,5%;Alken-Maes
+1243;Mort Subite Oude Gueuze;oudegeuze;7%;Alken-Maes
+1244;Mort Subite Oude Kriek;oudekriek;6,5%;Alken-Maes
+1245;Mort Subite Pêche;fruibier;4,5%;Alken-Maes
+1246;Mort Subite Xtreme Framboise;fruitbier;4,3%;Alken-Maes
+1247;Mort Subite Xtreme Kriek;fruitbier;4,3%;Alken-Maes
+1248;Mort Subite Xtreme Manzana;fruitbier;4,2%;Alken-Maes
+1249;Mort Subite Witte Lambic;lambiek;5%;Alken-Maes
+1250;Motuecha;hogegisting;5%;De Struise Brouwers
+1251;Moulin de Hollange;hogegisting,speltbier;6%;Brasserie Millevertus
+1252;Mouten Kop;koperkleurigindiapaleale;6%;Brouwerij De Graal
+1253;Mug;hogegisting;5%;De Scheldebrouwerij
+1254;Myn's Pils;pils;5%;Brasserie de Silly
+1255;Mystic Krieken;hogegisting,fruitbier;3,5%;Brouwerij Haacht
+1256;Mystic Limoen;hogegisting,fruitbier;3,5%;Brouwerij Haacht
+1257;Mystic Perzik;hogegisting,fruitbier;3,7%;Brouwerij Haacht
+1258;Mystic Radler;hogegisting,fruitbier;2,5%;Brouwerij Haacht
+1259;'n Maurootje;donkerblond;7%;Brouwerij Alvinne
+1260;'n Peerdevisscher;bruin;6,5%;Brouwerij Callewaert
+1261;'n Slypke;roodbruin,etiketbier;6%;Brouwerij Van Eecke
+1262;'n Toeback;hogegisting;9,5%;Scheldebrouwerij
+1263;Nachtraaf Speciale-Amber;amber;6%;De Nachtraafbrouwers bij Van Steenberge
+1264;Nachtraaf Dubbel-Bruin;dubbel;7,5%;De Nachtraafbrouwers bij Van Steenberge
+1265;Nachtraaf Tripel-Blond;tripel;9%;De Nachtraafbrouwers bij Van Steenberge
+1266;Nachtraaf Quadrupel-Donker;donker;10%;De Nachtraafbrouwers bij Van Steenberge
+1267;Naked Ladies;hogegisting;4,4%;Brouwerij Alvinne
+1268;Napoleon;donker;7%;Affligem Brouwerij
+1269;Ne Flierefluiter;tripel;6,8%;Brouwerij De Smedt
+1270;Ne Flierefluiter;tripel;8,5%;Brouwerij De Smedt
+1271;Ne Janneman;hogegisting,blond;8,5%;Brasserie D'achouffe
+1272;Ne Janneman;hogegisting,blond;8 %;Brasserie La Rochefortoise
+1273;Ne Janneman;hogegisting,blond;8,5%;brouwerij Dupont
+1274;Ne Janneman;hogegisting,blond;7%;Brouwerij Kerkom
+1275;Ne Kopstoot;hogegisting,goudkleur;7%;Brasserie de Brunehaut
+1276;Ne Snoeper;tripel;10%;'t Hofbrouwerijke
+1277;Nelle van Cruysem;hogegisting,amber;6%;Huisbrouwerij Sint Canarus
+1278;Nello's Blond;blond;7%;De Proefbrouwerij
+1279;Nello's Tripel;tripel;;De Proefbrouwerij voor Brouwerij De Arend
+1280;Nen Bangelijke;sterkblond;8%;Brouwerij 't Pakhuis
+1281;Nen Biskop;blond;6,4%;Brouwerij Danny
+1282;Nen Kerstbal;kerstbier;8%;voor bierfirma Vacas
+1283;Nen Uts;specialebelge;7%;Brouwerij De Graal
+1284;Netebuk;sterkblond;6,5%;Brouwerij Gulden Spoor
+1285;Neuzebier Tripel;blondetripel;6,9%;Brouwerij Anders!
+1286;Neuzebier Tripel Bruin;donkeretripel;8%;Brouwerij Anders! voor brouwerij De Neus
+1287;Newton;fruitbier;3,5%;Brouwerij Lefebvre
+1288;N'Ice Chouffe;donkerseizoensbier;10%;Brasserie d'Achouffe
+1289;Nivoo Bruin;hogegisting;8%;Brouwerij Anders!
+1290;Nivoo Tripel;tripel;7%;Brouwerij Anders! voor
+1291;Noblesse;hogegisting,blond;5,5%;Brouwerij De Dochter van de Korenaar
+1292;Noblesse Extra;hogegisting,ipa;7%;Brouwerij De Dochter van de Korenaar
+1293;Noël de Silenrieux;tripel,kerstbier;9%;Brasserie de Silenrieux
+1294;Noir de Dottignies;hogegisting;9%;Brouwerij De Ranke
+1295;Nondedju;tripel;10,7%;’t Hofbrouwerijke voor Montaigu
+1296;Nonneke;donker;8%;Brouwerij Anders!
+1297;NOORderbierke;hogegisting,amberblond;8,1%;Brouwerij Donum Ignis
+1298;Norman;blond;7%;Bierfirma NoordSter bij
+1299;Nostradamus;hogegisting,bruin;9%;Brasserie Caracole
+1300;Notre Passion;porter;8%;’t Hofbrouwerijke voor Montaigu
+1301;Nounnette;blond;7,5%;Brasserie de l'Abbaye des Rocs
+1302;Novice Blue;goudblond;8,5%;Brouwerij De Landtsheer
+1303;Novice Tripel Black;bruin,tripel;8,5%;Brouwerij De Landtsheer
+1304;Nuits Blanches;;7,5%;Brasserie de l'Abbaye des Rocs
+1305;Odlo Blond;hogegisting;6,7%;Brouwerij De Graal
+1306;Odlo Hivernum;winterbier,belgian;8,7%;Brouwerij Lupus
+1307;Odlo Triviaal;tripel;8,2%;Brouwerij De Graal voor (T)Huisbrouwerij Odlo
+1308;Oeral;indiapaleale;6%;De Dolle Brouwers
+1309;Oerbier;hogegisting;7,5%;De Dolle Brouwers
+1310;Oerbier special Reserva;hogegisting;13,0%;De Dolle Brouwers
+1311;Oesterstout;stout;8,5%;De Scheldebrouwerij
+1312;Omer.;hogegisting,blond;8%;Brouwerij Bockor
+1313;Ommegang;strogeel,hogegisting;8%;Brouwerij Haacht
+1314;Ondineke;tripel;8,5%;Brouwerij De Glazen Toren
+1315;Op-Ale;ale;5%;Affligem Brouwerij
+1316;Opitter;export;;Brouwerij Sint-Jozef
+1317;Ops-Ale;blond;5,5%;Brouwerij Sint-Jozef
+1318;Orval;trappist;6,2%;Abdij Notre-Dame d'Orval
+1319;Orvélo;tripel;7,5%;De Proefbrouwerij
+1320;Oudbeitje;aardbeienlambiek;6%;Hanssens Artisanaal
+1321;Oud Bier;tafelbier;2,1%;Brouwerij Strubbe
+1322;Oud Tassels;tripel;8,5%;Brouwerij Boelens
+1323;Oud Kriekenbier;fruitbier;6%;Brouwerij Strubbe
+1324;Oud Zottegems Bier;hogegisting;6,5%;Brouwerij Strubbe
+1325;Oude Geuze 3 Fonteinen;geuze;7%;Geuzestekerij 3 Fonteinen
+1326;Oude Geuze Vintage 3 Fonteinen;geuze;6%;Geuzestekerij 3 Fonteinen
+1327;Oudenaards;hogegisting;5%;Brouwerij Roman
+1328;Oudstrijder Blond;blond,hogegisting,biologisch;7,2%;Brouwerij Strubbe
+1329;Oudstrijder Dobbel-Tripel;robijnrood,hogegisting,biologisch;7,8%;Brouwerij Strubbe
+1330;Oude Geuze Boon;geuze;6,5%;Brouwerij Boon
+1331;Oude Geuze De Cam;geuze;6%;Geuzestekerij De Cam
+1332;Oude Geuze Oud Beersel;geuze;6%;Brouwerij Oud Beersel
+1333;Oude Gueuze Hanssens;geuze;6%;Hanssens Artisanaal
+1334;Oude Gueuze Tilquin à l'ancienne;geuze;6,0%;Gueuzerie Tilquin
+1335;Oude Kriek 3 Fonteinen;lambiek/kriek;6%;Geuzestekerij 3 Fonteinen
+1336;Oude Kriek Boon;lambiek;6,5%;Brouwerij Boon
+1337;Oude Kriek De Cam;lambiek/kriek;6,5%;Geuzestekerij De Cam
+1338;Oude Kriek Hanssens;lambiek/kriek;6%;Hanssens Artisanaal
+1339;Oude Kriek Oud Beersel;lambiek;6,5%;Brouwerij Oud Beersel
+1340;Oude Lambiek De Cam;lambiek;5%;Geuzestekerij De Cam
+1341;Oude Quetsche Tilquin à l'ancienne;lambiek;6,4%;Gueuzerie Tilquin
+1342;Outblack;belgianstrongale;10%;De Struise Brouwers
+1343;Oxymore;amber,hogegisting;5%;Brasserie Oxymore
+1344;Pa-Gijs;bruin;8,5%;Brouwerij Boelens
+1345;Paix-Dieu;abdijbier;10%;Brasserie Caulier
+1346;Paljas Blond;blond;6%;Brouwerij Anders!
+1347;Paljas Bruin;bruin;6%;Brouwerij Anders! voor
+1348;Paljas IPA;amber,ipa;6%;Brouwerij Anders! voor
+1349;Palm;spécialebelge;5,4%;Brouwerij Palm
+1350;Palm Dobbel;kerstbier;6%;Brouwerij Palm
+1351;Palm Green;alcoholarm;0,25%;Brouwerij Palm
+1352;Palm Hopper;hogegisting;6%;Brouwerij Palm
+1353;Palm Hop Select;hogegisting;6%;Brouwerij Palm
+1354;Palm N.A;alcoholarm;0,25%;Brouwerij Palm
+1355;Palm Royale;hogegisting;7,5%;Brouwerij Palm
+1356;Palm Sauvin;hogegisting;4,9%;Brouwerij Palm
+1357;Palm Speciale;spécialebelge;5,2%;Brouwerij Palm
+1358;Pandreitje;donkerblond;7%;Brouwerij De Regenboog
+1359;Pannepot;hogegisting;10%;De Struise Brouwers
+1360;Pannepot Reserva;hogegisting,bruin;10%;De Struise Brouwers bij Brouwerij Deca
+1361;Pannepot Grand Reserva Vintage;hogegisting,bruin;10%;De Struise Brouwers bij Brouwerij Deca
+1362;Pannepot Special Reserva;hogegisting,bruin;10%;De Struise Brouwers bij Brouwerij Deca
+1363;Pannepot Wild;hogegisting,bruin;10%;De Struise Brouwers bij Brouwerij Deca
+1364;Pannepeut;hogegisting;10%;De Struise Brouwers bij Brouwerij Deca
+1365;Papegaei;hogegisting;8%;Brouwerij Verstraete bij Brouwerij Deca
+1366;Passchendaele;hogegisting;5,2%;Brouwerij Van Honsebrouck
+1367;Passendale;amber;6%;Brouwerij Duvel Moortgat
+1368;Pater;streekbier;6%;Brouwerij Anders!
+1369;Pater;streekbier;6%;Brouwerij De Lelie
+1370;Pater Lieven;abdijbieramber;5,7%;Brouwerij Van Den Bossche
+1371;Pater Lieven Blond;abdijbier;6,5%;Brouwerij Van Den Bossche
+1372;Pater Lieven Bruin;abdijbier;6,5%;Brouwerij Van Den Bossche
+1373;Pater Lieven Tripel;abdijbier;8%;Brouwerij Van Den Bossche
+1374;Pater Lieven Wit;abdijbier;8%;Brouwerij Van Den Bossche
+1375;Pater Verbiest Blond;biologisch,blond;6,5%;De Proefbrouwerij
+1376;Pater Verbiest Donker;biologisch,donker;9%;De Proefbrouwerij
+1377;Paternoster Dubbel;bruindubbel;8%;Microbrouwerij Achilles
+1378;Paternoster Tripel;tripel;8%;Brouwerij Anders!
+1379;Patrasche dubbel;donkerbruin;8%;De Proefbrouwerij
+1380;Paulus;oudbruin;6%;Brouwerij Het Sas
+1381;Paus;streekbier;?%;Brouwerij Anders!
+1382;Paus;streekbier;8,5%;Brouwerij Anders!
+1383;Pauwel Kwak;speciaalbier;8,4%;Brouwerij Bosteels
+1384;Pax Pils;pils;4,6%;Brouwerij Sint-Jozef
+1385;Pêche Mel Bush;fruitbier;8,5%;Brouwerij Dubuisson
+1386;Pee Klak Grand Cru;etiketbier;8,4%;Brouwerij Strubbe
+1387;Père Abbé;tripel;7,3%;Brasserie Du Bocq
+1388;Père Noël;kerstbier;7%;Brouwerij De Ranke
+1389;Peter Benoit;etiketbier;5%;Brouwerij Het Sas
+1390;Petrus Aged Pale;agedpale;7,3%;Brouwerij Bavik
+1391;Petrus Aged Red;roodbruin;8,5%;Brouwerij Bavik
+1392;Petrus Blond;hogegisting,blond;6,6%;Brouwerij Bavik
+1393;Petrus Dubbel Bruin;bruin;6,5%;Brouwerij Bavik
+1394;Petrus Gouden Tripel;tripel;7,5%;Brouwerij Bavik
+1395;Petrus Oud Bruin;oudbruin;5,5%;Brouwerij Bavik
+1396;Petrus Speciale;speciaalbier;5,5%;Brouwerij Bavik
+1397;Petrus Winterbier;winterbier;6,5%;Brouwerij Bavik
+1398;Phaedra;amber;6%;Brouwerij Het Alternatief
+1399;Pick-Up;pils;5%;Brouwerij Walrave
+1400;Piedbœuf Blonde;tafelbier;1,5%;Brouwerij Piedbœuf
+1401;Piedbœuf Brune;tafelbier;1,5%;Brouwerij Piedbœuf (InBev)
+1402;Piedbœuf Excellence;tafelbier;2%;Brouwerij Piedbœuf (InBev)
+1403;Piedbœuf Foncée;tafelbier;1,5%;Brouwerij Piedbœuf (InBev)
+1404;Piedbœuf Triple;tafelbier;3,8%;Brouwerij Piedbœuf (InBev)
+1405;Pierewietje;;6%;Brouwerij De Regenboog
+1406;Piet-Agoras;hogegisting;9%;Brouwerij Het Alternatief bij Brouwerij De Graal
+1407;Pikkeling;blond;6,2%;Brouwerij Slaghmuylder
+1408;Pikkeling (40);amber,hogegisting;5,5%;Brouwerij Slaghmuylder
+1409;Pikkeling Tripel;tripel;8%;Brouwerij Boelens
+1410;Pilaarbijter Blond;hogegisting;7,2%;Brouwerij Bavik
+1411;Pilaarbijter Bruin;hogegisting;6,5%;Brouwerij Bavik
+1412;Pils de Brabant;pils;4,9%;Groep John Martin
+1413;Pimpernelle;tripel,biologisch;8%;Brouwerij Jessenhofke
+1414;Pink Killer;hogegisting,fruitigwitbier;5%;Brasserie de Silly
+1415;Pipedream;ipa;7,8%;Brouwerij Alvinne
+1416;Piraat;hogegisting;10,5%;Brouwerij Van Steenberge
+1417;Pissenlit;saison;8%;Brasserie Fantôme
+1418;Platteau;blond;4,5%;Brouwerij Alvinne
+1419;Plezir Blond;pils;5,5%;Brouwerij Sint-Jozef
+1420;Plezir Brown;hogegisting;7,1%;Brouwerij Sint-Jozef
+1421;Plezir D Lux Blond;blondaperitiefbier;6,7%;Brouwerij Sint-Jozef
+1422;Plezir D Lux Rosé;rosébier;5,2%;Brouwerij Sint-Jozef
+1423;Ploegsteert;;5,4%;Brouwerij Verhaeghe Vichte
+1424;Plokkersbier;amber;7%;Brouwerij De Bie
+1425;PMPRNL;tripel,biologisch;8%;Brouwerij Jessenhofke
+1426;Podge Belgian Imperial Stout;stout;10,5%;Brouwerij Alvinne
+1427;Podge Oak Aged Stout;stout;11%;Brouwerij Alvinne
+1428;Polygonneke;roodbruin,etiketbier;6%;Brouwerij Van Eecke
+1429;Postel Blond;blond,abdijbier;7%;Affligem Brouwerij
+1430;Postel Christmas;roodbruinabdijbier;9%;Affligem Brouwerij (vroeger eerst door
+1431;Postel Dubbel;bruin,abdijbier;7%;Affligem Brouwerij (vroeger eerst door
+1432;Postel Tripel;blondetripel,abdijbier;8,5%;Affligem Brouwerij (vroeger eerst door
+1433;Potteloereke;bruin;8%;Huisbrouwerij Sint-Canarus
+1434;Poorter (bier);abdijbier;6,5%;Brasserie du Bocq
+1435;Poperings Hommelbier;hogegisting;7,5%;Brouwerij Van Eecke
+1436;Poperings Nunnebier;hogegisting;7,2%;Brouwerij Verhaeghe
+1437;Préaris Blond;hogegisting;6%;De Proefbrouwerij voor Vliegende Paard Brouwers
+1438;Préaris Quadrupel;belgianstrongale;10%;De Proefbrouwerij voor Vliegende Paard Brouwers
+1439;Préaris IPA (No Hops No Glory);ipa;6,7%;De Proefbrouwerij voor Vliegende Paard Brouwers
+1440;Prima Leroy;tafelbier;3,25%;Brouwerij Het Sas
+1441;Primus;pils;5,2%;Brouwerij Haacht
+1442;Prins van Horne;amber;7,9%;Brouwerij Boelens voor Vryheytscamme
+1443;Prinsesken;lichtrood,fruitbier;6,5%;Brouwerij Boelens
+1444;Puitenkop;ipa;5,6%;Brouwerij 't Paenhuys
+1445;Qantelaar;quadrupel;8%;Brouwerij Maenhout
+1446;Quadrigenti;blond;5,6%;'t Hofbrouwerijke
+1447;Quest;blond;9%;Brouwerij De Graal
+1448;Queueu de Charrue Ambrée;amber;5,6%;Brouwerij Verhaeghe Vichte
+1449;Queueu de Charrue Blonde;blond,hogegisting;6,6%;Brouwerij Verhaeghe Vichte in opdracht van Brouwerij Vanuxeem
+1450;Queueu de Charrue Brune;oudbruin;5,4%;Brouwerij Verhaeghe Vichte in opdracht van Brouwerij Vanuxeem
+1451;Queueu de Charrue Triple;tripel;9%;Brouwerij Van Steenberge
+1452;Quackelbeens Donker;hogegisting,chocoladebier;7,1%;Brouwerij Gulden Spoor
+1453;Quintine Ambrée;hogegisting;8,5%;Brasserie Ellezelloise
+1454;Quintine Bio Organic;hogegisting,biologisch;5,9%;Brasserie Ellezelloise
+1455;Quintine Blonde;hogegisting;8%;Brasserie Ellezelloise
+1456;Rader Ambrée;amber;10,5%;Brasserie de l'Abbaye du Val-Dieu
+1457;Rader Blonde;blond;6,5%;Brasserie de l'Abbaye du Val-Dieu voor Stokerij Radermacher
+1458;Ramée Blond;blond,tripel,abdijbier;6,8%;Brasserie du Bocq, in opdracht (vroeger Brasserie de Brunehaut)
+1459;Ramée Triple Amber;amber,tripel,abdijbier;7,5% (6,8% on keg);Brasserie du Bocq, in opdracht
+1460;Ramée Triple Blond;blond,tripel,abdijbier;7,5% (6,8% on keg);Brasserie du Bocq, in opdracht (vroeger Brasserie de Brunehaut)
+1461;Ramée Wit;witabdijbier;5% (on keg);Brasserie du Bocq, in opdracht (vroeger
+1462;Rasta Trolls;hogegisting,blond;7%;Brouwerij Dubuisson
+1463;Rebel Local;ipa;8,5%;Brouwersverzet
+1464;Redbach;fruitbier(kriekensap);3,5%;Brouwerij Rodenbach
+1465;Redbocq;fruitbier;3,1%;Brasserie Du Bocq
+1466;Redor;pils;5%;Brasserie Dupont
+1467;Regal Christmas;bruin;8,1%;Brasserie Du Bocq
+1468;Reinaert Blond;amber;7%;De Proefbrouwerij
+1469;Reinaert Grand Cru;amber;9,5%;De Proefbrouwerij
+1470;Reinaert Tripel;blond;9%;De Proefbrouwerij
+1471;René;blond;7%;Brouwerij De Graal
+1472;Reninge Bitter Blond;blond;7%;Seizoensbrouwerij Vandewalle
+1473;Reninge Oud Bruin;bruin;6%;Seizoensbrouwerij Vandewalle
+1474;Revolucion Mexicana'10;lagegisting;5%;Group John Martin
+1475;Ridder;alcoholarm;2,25%;Brouwerij Het Sas
+1476;Riebedebie;tripel;9%;Brouwerij De Bie
+1477;Ribaldus blond;blond;7,5%;Brouwerij De Graal
+1478;Riva Blanche;witbier;5%;Brouwerij Riva
+1479;Robustus;quadrupel;10%;Brouwerij Het Gulden Spoor
+1480;Rochefort 6;trappist;7,5%;Abdij Notre-Dame de Saint-Rémy
+1481;Rochefort 8;trappist;9,2%;Abdij Notre-Dame de Saint-Rémy
+1482;Rochefort 10;trappist;11,3%;Abdij Notre-Dame de Saint-Rémy
+1483;Rodenbach;oudbruin;5,2%;Brouwerij Rodenbach
+1484;Rodenbach Alexander;oudbruin;6%;Brouwerij Rodenbach
+1485;Rodenbach Caractère Rouge;oudbruin;7%;Brouwerij Rodenbach
+1486;Rodenbach Grand Cru;oudbruin;6%;Brouwerij Rodenbach
+1487;Rodenbach Rosso;oudbruin;4%;Brouwerij Rodenbach
+1488;Rodenbach Vintage;oudbruin;7%;Brouwerij Rodenbach
+1489;Rogier (bier);specialebelge;6,5%;Brouwerij De Graal
+1490;Romy Pils;pils;5,1%;Brouwerij Roman
+1491;Romy Luxe;pils;5,6%;Brouwerij Roman
+1492;Ronsischen Dubbel;winterbier;7,4%;De Proefbrouwerij
+1493;Ronsischen Tripel;tripel;8%;De Proefbrouwerij voor bierfirma Slaapmutske
+1494;Roodebol;fruitbier;6,6%;Brouwerij Loterbol
+1495;Rosdel;amber;5,8%;Brouwerij Nieuwhuys
+1496;Rosé de Gambrinus;fruitbier,lambiek;5,5%;Brasserie Cantillon
+1497;Rose des Remparts;fruitbier;4,5%;Brasserie La Binchoise
+1498;Rosé Max;fruitbier;4,5%;Brouwerij Bockor
+1499;Roste Jeanne;belgianale;7%;De Struise Brouwers
+1500;Rousse de Brabant;koper-amber;5,2%;Groep John Martin
+1501;RSRV;biologisch,roodbruin;10%;Brouwerij Jessenhofke
+1502;Rubbens (bier);;;Brouwerij van Zonnegem
+1503;'s Lands Souvenirs Du Terroir;bruin;11%;Brouwerij De Landtsheer
+1504;Safir;pils;5%;InBev
+1505;Saint-Benoît Blonde;blond,hogegisting;6,3%;Brasserie du Bocq
+1506;Saint-Benoît Brune;donker,hogegisting;6,5%;Brasserie du Bocq
+1507;Saint-Lamvinus;fruitbier,lambiek;6%;Brouwerij Cantillon
+1508;Saint-Monon Ambrée;amber;6,5%;Brasserie Saint-Monon
+1509;Saint-Monon au Miel;tripel,honingbier;8%;Brasserie Saint-Monon
+1510;Saint-Monon Brune;dubbel;7,5%;Brasserie Saint-Monon
+1511;Saison 1858;saison;6,4%;Brasserie du Bocq
+1512;Saison 1900;amber,saison;5,2%;Brouwerij Lefebvre
+1513;Saison 2000;saison;6,5%;Brasserie des Légendes
+1514;Saison Cazeau;saison;5%;Brasserie de Cazeau
+1515;Saison de Dottignies;saison;5,5%;Brouwerij De Ranke
+1516;Saison de la Senne;saison;4,3%;Brouwerij De Ranke
+1517;Saison de Mai;saison;8,3%;Brasserie Saint-Monon
+1518;Saison de Pipaix;saison;6%;Brasserie à Vapeur
+1519;Saison d'Epeautre;blond,;6%;Brasserie de Blaugies
+1520;Saison d'Erpe-Mere;saison;6,9%;Brouwerij De Glazen Toren
+1521;Saison de Silly;saison,amber;5%;Brasserie de Silly
+1522;Saison Dupont;saison;6,5%;Brouwerij Dupont
+1523;Saison Dupont Bio;saison,biologisch;5,5%;Brouwerij Dupont
+1524;Saison Dupont Cuvée Dry Hopping;saison;6,5%;Brouwerij Dupont
+1525;Saison Regal;saison,amber;5,5%;Brasserie du Bocq (voorheen
+1526;Saison St-Feuillien;saison,amber;6,5%;Brasserie Saint-Feuillien
+1527;Saison Voisin;saison,amber;5%;Brasserie des Légendes
+1528;Sans Pardon;imperialstout,zwart;11%;Brouwerij De Dochter van de Korenaar
+1529;Santa Bee;bruinkerstbier;8,5%;Brouwerij Boelens
+1530;Sara Blond;blond,hogegisting,boekweit;6%;Brasserie de Silenrieux
+1531;Sara Bruin;bruin,hogegisting,boekweit;6%;Brasserie de Silenrieux
+1532;Sas Brune;hogegisting;5,3%;Brouwerij Het Sas
+1533;Sas Export;exportpils;5%;Brouwerij Het Sas
+1534;Sas Pils;pils;5%;Brouwerij Het Sas
+1535;Sasbräu;dortmunder;6,3%;Brouwerij Het Sas
+1536;Satan Black;donker,hogegisting;8%;Brouwerij De Block
+1537;Satan Gold;blond,hogegisting;8%;Brouwerij De Block
+1538;Satan Red;vlaamsbruin;8%;Brouwerij De Block
+1539;Satan White;witbier;5%;Brouwerij De Block
+1540;Saxo;hogegisting;8%;Brasserie Caracole
+1541;Schaarbeekse Oude Kriek 3 Fonteinen;fruitbier,lambiek;5%;Geuzestekerij 3 Fonteinen
+1542;Schapenkop;tripel;8%;Brouwerij 't Paenhuys
+1543;Scheldepils;pils;5%;Brouwerij Huyghe
+1544;Schoenlappertje;zwarte-bessenbier;5%;De Scheldebrouwerij
+1545;Schultenbräu;pils;4,9%;Brouwerij Martens
+1546;SchuppenAas;amber;6,5%;De Scheldebrouwerij
+1547;SchuppenBoer;tripel;8,5%;De Scheldebrouwerij
+1548;Scotch Crowned Trees Scotch;scotch;7,2%;Inbev
+1549;Scotch Crowned Trees Stout;stout;%;Brouwerij Wielemans
+1550;Scotch Silly;hogegisting,scotch;7,8%;Brasserie de Silly
+1551;Seefbier;hogegisting;%;meerder artisanale historische brouwerijen
+1552;Seefbier;hogegisting;6,5%;Antwerpse Brouw Compagnie
+1553;Serafijn Blond;blond,hogegisting;6,2%;De Proefbrouwerij
+1554;Serafijn Donker;bruin,hogegisting;8%;De Proefbrouwerij voor Microbrouwerij Achilles
+1555;Serafijn Grand Cru;amber,hogegisting;9%;De Proefbrouwerij voor Microbrouwerij Achilles
+1556;Serafijn Tripel;tripel;8%;De Proefbrouwerij voor Microbrouwerij Achilles
+1557;Serafijn Kerstlicht;amber,kerstbier;7%;De Proefbrouwerij voor Microbrouwerij Achilles
+1558;Sernia Brune;scotch,etiketbier;7,2%;Inbev
+1559;Sezoens Blond;hogegisting,blond;6%;Brouwerij Martens (Bocholt)
+1560;Sezoens Quattro;hogegisting,amber;8%;Brouwerij Martens (Bocholt)
+1561;Shark Pants;double;9%;De Struise Brouwers
+1562;Silly Pils;pils;5%;Brasserie de Silly
+1563;Silly Pils Bio;pils,biologisch;5%;Brasserie de Silly
+1564;Sinpalsken Blond;hogegisting;8,5%;Brouwerij De Cock
+1565;Sinpalsken Donker;hogegisting;8,5%;Brouwerij De Cock bij Brouwerij Van Steenberge
+1566;Sint-Adriaansbier Blond;abdijbier;6,5%;Brouwerij Van Steenberge
+1567;Sint-Adriaansbier Bruin;abdijbier;;Brouwerij Van Steenberge
+1568;Sint-Amatus;quadrupel;10,5%;De Struise Brouwers
+1569;Sint Canarus Tripel;tripel;7,5%;Huisbrouwerij Sint Canarus
+1570;Sint Canarus 10;tripel;8,73%;Huisbrouwerij Sint Canarus
+1571;Sinterklaas;blond;8,5%;Brouwerij Boelens
+1572;Sint-Gummarus Dubbel;;7%;Brouwerij Sint-Jozef
+1573;Sint-Gummarus Tripel;hogegisting,tripel;8%;Brouwerij Sint-Jozef
+1574;Sint-Idesbald blond;hogegisting;6,5%;Brouwerij Huyghe
+1575;Sint-Idesbald dubbel;hogegisting;8%;Brouwerij Huyghe
+1576;Sint-Idesbald tripel;hogegisting;9%;Brouwerij Huyghe
+1577;Sint-Idesbald Rousse;hogegisting;7%;Brouwerij Huyghe
+1578;Slaapmutske Blond;hogegisting,blond;6,4%;De Proefbrouwerij voor
+1579;Slaapmutske Bruin;hogegisting,bruin;6%;De Proefbrouwerij voor Brouwerij Slaapmutske
+1580;Slaapmutske Bio Tripel;biologisch,tripel,goudblond;8%;De Proefbrouwerij voor Brouwerij Slaapmutske
+1581;Slaapmutske Hop Collection ft. Kent Goldings;hogegisting,singlehop;10%;De Proefbrouwerij voor Brouwerij Slaapmutske
+1582;Slaapmutske Tripel;biologisch,tripel,goudblond;8,1%;De Proefbrouwerij voor Brouwerij Slaapmutske
+1583;Slaapmutske Christmas;hogegisting,kerstbier;7,4%;De Proefbrouwerij voor Brouwerij Slaapmutske
+1584;Slaapmutske Dry Hopped Lager;lagegisting,dortmunder;5,3%;De Proefbrouwerij voor Brouwerij Slaapmutske
+1585;Slaapmutske Winterbier;hogegisting,bruin;6%;De Proefbrouwerij voor Brouwerij Slaapmutske
+1586;Slaefke;tripel;7,5%;Huisbrouwerij Sint Canarus
+1587;Slag Lager;pils;5%;Brouwerij Slaghmuylder
+1588;Slaghmuylder's Kerstbier;lagegisting,blond;5,2%;Brouwerij Slaghmuylder
+1589;Slaghmuylder's Paasbier;lagegisting,blond;5,2%;Brouwerij Slaghmuylder
+1590;Slim³;bovengisting;8%;Brouwerij De Graal
+1591;Sloeber;hogegisting;7,5%;Brouwerij Roman
+1592;Smisje Kerst;donkeramber;11%;Brouwerij Smisje
+1593;Smiske;blond;7%;Brouwerij Smisje
+1594;Smiske Bruin;dubbel;7%;Brouwerij Smisje
+1595;Smiske Extra;tripel;7%;Brouwerij Smisje
+1596;Smiske Winter;donkeramber;11%;Brouwerij Smisje
+1597;Snaaskerstbier;kerstbier;8%;Brouwerij Deca
+1598;Snoek Blond;hogegisting;7,5%;Brouwerij Bavik
+1599;Snoek Bruin;hogegisting;5,5%;Brouwerij Strubbe
+1600;Snowbuk;saison;6%;Brouwerij Gulden Spoor
+1601;Snuffelbeer;goud,hogegisting;6%;Brouwerij De Regenboog
+1602;Sparta Pils;pils;5%;Brouwerij Van Steenberge
+1603;Special 6 Block;amber,hogegisting;6%;Brouwerij De Block
+1604;Special De Ryck;hogegisting,amber;5,5%;Brouwerij De Ryck
+1605;Special Extra Export Stout;stout;9%;De Dolle Brouwers
+1606;Special Roman;bruin;5,5%;Brouwerij Roman
+1607;Speciale 1900;amber;5%;Brouwerij Haacht
+1608;Spéciale de Brabant;pils;5,3%;Groep John Martin
+1609;Speculoos Bier;hogegisting(etiketbier);8%;Brasserie d'Ecaussinnes
+1610;Spelziale;ale;4,5%;Brasserie Millevertus
+1611;Spioenkopje;fruitbier,witbier;5%;Brouwerij Strubbe
+1612;Spitfire Oud Balegems;amber;8,0%;Brouwerij Van Steenberge
+1613;St. Bernardus Abt 12;hogegisting;10,5%;Brouwerij St. Bernardus
+1614;St. Bernardus Christmas Ale;kerstbier;10%;Brouwerij St. Bernardus
+1615;St. Bernardus Extra 4;blondseizoensbier;4,8%;Brouwerij St. Bernardus
+1616;St. Bernardus Pater 6;hogegisting;6,7%;Brouwerij St. Bernardus
+1617;St. Bernardus Prior 8;hogegisting;8%;Brouwerij St. Bernardus
+1618;St. Bernardus Tripel;hogegisting;8%;Brouwerij St. Bernardus
+1619;St. Bernardus Wit;witbier;5,5%;Brouwerij St. Bernardus
+1620;Sint-Idesbald Réserve Ten Duinen Blond;erkendbelgischabdijbier;6,5%;Brouwerij Huyghe
+1621;Sint-Idesbald Réserve Ten Duinen Dubbel;erkendbelgischabdijbier;8%;Brouwerij Huyghe
+1622;Sint-Idesbald Réserve Ten Duinen Rousse;erkendbelgischabdijbier;7%;Brouwerij Huyghe
+1623;Sint-Idesbald Réserve Ten Duinen Tripel;erkendbelgischabdijbier,tripel;9%;Brouwerij Huyghe
+1624;Spécial de Nouvel An;;9,5%;Brouwerij Dupont
+1625;St. Benoit Blonde;abdijbier;6,3%;Brasserie du Bocq
+1626;St. Benoit Brune;abdijbier;6,5%;Brasserie du Bocq
+1627;St. Feuillien Blonde;erkendbelgischabdijbier;7,5%;Brouwerij St-Feuillien
+1628;St. Feuillien Brune Réserve;erkendbelgischabdijbier;7,5%;Brouwerij St-Feuillien
+1629;Grand Cru St-Feuillien Grand Cru;erkendbelgischabdijbier;9,5%;Brasserie Saint Feuillien
+1630;St. Feuillien Triple;erkendbelgischabdijbier;8,5%;Brouwerij St-Feuillien
+1631;St. Feuillien Cuvée de Noël;erkendbelgischabdijbier,kerstbier;8,5%;Brouwerij St-Feuillien
+1632;St. Firminus Blond;abdijbier;;Brasserie Du Bocq
+1633;St. Firminus Bruin;abdijbier;;Brasserie Du Bocq
+1634;St. Louis Cassis;fruitbier;4,5%;Brouwerij Van Honsebrouck
+1635;St. Louis Cassis Kir Royal;fruitbier;4,5%;Brouwerij Van Honsebrouck
+1636;St. Louis Framboise;frambozenbier;5 en 4,5%;Brouwerij Van Honsebrouck
+1637;St. Louis Frambozen(bier);frambozenbier;5%;Brouwerij Van Honsebrouck
+1638;St. Louis Gueuze;geuze;5 en 4,5%;Brouwerij Van Honsebrouck
+1639;St. Louis Gueuze Fond Tradition;geuze;5%;Brouwerij Van Honsebrouck
+1640;St. Louis Kriek Lambic;kriek;4,5%;Brouwerij Van Honsebrouck
+1641;St. Louis Peche;fruitbier;3,5%;Brouwerij Van Honsebrouck
+1642;St. Louis Premium Cassis;fruitbier;3,2%;Brouwerij Van Honsebrouck
+1643;St. Louis Premium Faro;faro;3,2%;Brouwerij Van Honsebrouck
+1644;St. Louis Premium Framboise;fruitbier;2,8%;Brouwerij Van Honsebrouck
+1645;St. Louis Premium Kriek;kriek;3,2%;Brouwerij Van Honsebrouck
+1646;St. Louis Premium Pêche;fruitbier;2,6%;Brouwerij Van Honsebrouck
+1647;St. Paul Blond;abdijbier;5,3%;Brasserie du Bocq voor
+1648;St. Paul Double;abdijbier;6,9%;Brasserie du Bocq voor Brouwerij Sterkens
+1649;St. Paul Speciale;abdijbier;5,5%;Brasserie du Bocq voor Brouwerij Sterkens
+1650;St. Paul Tripel;abdijbier,tripel;5%;Brasserie du Bocq voor Brouwerij Sterkens
+1651;St. Sebastiaan Dark;abdijbier;6,9%;Brasserie du Bocq voor Brouwerij Sterkens
+1652;St. Sebastiaan Grand Cru;abdijbier;7,6%;Brasserie du Bocq voor Brouwerij Sterkens
+1653;Star Blond;blond;0,4%;Brouwerij Haacht
+1654;Steenbrugge Blond;abdijbier,blond;6,5%;Brouwerij Palm
+1655;Steenbrugge Dubbel Bruin;abdijbier,tripel,bruin;6,5%;Brouwerij Palm (vroeger in
+1656;Steenbrugge Tripel;abdijbier;8,7%;Brouwerij Palm (vroeger in Brouwerij De Gouden Boom)
+1657;Steenbrugge Wit;witbier;5%;Brouwerij Palm
+1658;Steendonk;witbier;4,5%;Brouwerij Duvel Moortgat
+1659;Steenuilke;hogegisting;6,5%;Brouwerij De Rijck
+1660;Stella Artois;pils,lagegisting;5,2%;InBev
+1661;Stepa;tripel,suikervrij;8%;De Proefbrouwerij voor Stepaja bvba
+1662;Stille Nacht;donker;12%;De Dolle Brouwers
+1663;Stoere Wulp;bruin;6,5%;De Proefbrouwerij
+1664;Stoeren Bonk;amber;6,3%;Brouwerij Van Steenberge
+1665;Stoeren Bonk Blond;blond;8%;Brouwerij Van Steenberge
+1666;Stout Leroy;zoetestout;5%;Brouwerij Het Sas
+1667;Stoute Bie;donkerbruin;5,5%;Brouwerij De Bie
+1668;Stout Mokke;stout;9%;Bieren Cabardouche
+1669;Stouterik;stout;4,5%;Brouwerij De Ranke
+1670;Straffe Hendrik;hogegisting,tripel;9%;Brouwerij De Halve Maan
+1671;Straffe Hendrik Quadrupel;hogegisting,speciaalbier;11%;Brouwerij De Halve Maan
+1672;Straffe Hendrik Heritage;hogegisting,speciaalbier;11%;Brouwerij De Halve Maan
+1673;Straffe Hendrik Wild;hogegisting,tripel;9%;Brouwerij De Halve Maan
+1674;Straffe Toeback;hogegisting;9,5%;Scheldebrouwerij
+1675;Straffe Winter;geuze;8%;Geuzestekerij 3 fonteinen
+1676;Strandgaper;goud;6,2%;De Scheldebrouwerij
+1677;Strandjuttersbier Mong De Vos;quadrupel;9,2%;Brouwerij Strubbe
+1678;Stropken;amber;7%;Brouwerij Bios
+1679;Strubbe Pils;pils;5,2%;Brouwerij Strubbe
+1680;Struise Rosse;hogegisting,belgischepaleale;5%;De Struise Brouwers
+1681;Struise Witte;hogegisting;5%;De Struise Brouwers bij Brouwerij Deca
+1682;Struiselensis;hogegisting,belgischeblondeale;7%;De Struise Brouwers bij Brouwerij Deca
+1683;Suma Pils;etiketbier;5%;Brouwerij Het Sas
+1684;Super 64;hogegisting,amber;5%;Brasserie de Silly
+1685;Super des Fagnes Blonde;hogegisting,blond;7,5%;Brasserie des Fagnes
+1686;Super des Fagnes Brune;hogegisting,bruin;7,5%;Brasserie des Fagnes
+1687;Super des Fagnes Griottes;hogegisting,kriek;4,8%;Brasserie des Fagnes
+1688;Super des Fagnes Noel;hogegisting,bruin,kerstbier;8,5%;Brasserie des Fagnes
+1689;Super des Fagnes Scotch;hogegisting,scotch;7,5%;Brasserie des Fagnes
+1690;Super NoAH;ipa;4,9%;Brouwers Verzet
+1691;Superpils;pils;4,3%;Brouwerij Strubbe
+1692;Sur-les-Bois Ambrée;hogegisting;8%;Brasserie La Botteresse de Sur-les-Bois
+1693;Sur-les-Bois Blonde;hogegisting;7%;Brasserie La Botteresse de Sur-les-Bois
+1694;Sur-les-Bois Brune;hogegisting;9%;Brasserie La Botteresse de Sur-les-Bois
+1695;Svea IPA;ipa;5%;De Struise Brouwers bij Brouwerij Deca
+1696;'t Baronneke;stout;6,5%;'t Hofbrouwerijke
+1697;'t Gaverhopke Blondje;hogegisting;6,8%;Brouwerij 't Gaverhopke
+1698;'t Gaverhopke Bruintje;hogegisting;6,8%;Brouwerij 't Gaverhopke
+1699;'t Gaverhopke Kerstbier;hogegisting,kerstbier;6,8%;Brouwerij 't Gaverhopke
+1700;'t Gaverhopke Kriek;hogegisting,fruitbier;6,8%;Brouwerij 't Gaverhopke
+1701;'t Gaverhopke Paasbier;hogegisting,paasbier;8%;Brouwerij 't Gaverhopke
+1702;'t Schoenlappertje;zwarte-bessenbier;6,5%;De Scheldebrouwerij
+1703;'t Schoenlappertje;zwarte-bessenbier;5%;De Scheldebrouwerij
+1704;'t Smisje + dubbel IPA;ipa;10%;Brouwerij De Regenboog
+1705;'t Smisje Bananenbier;fruitbier;6%;Brouwerij De Regenboog
+1706;'t Smisje BBBourgondier;hogegisting;12%;Brouwerij De Regenboog
+1707;'t Smisje Blond;hogegisting;6%;Brouwerij De Regenboog
+1708;'t Smisje Calva Reserva;hogegisting;12%;Brouwerij De Regenboog
+1709;'t Smisje Catherine The Great Imperial Stout;stout;10%;Brouwerij De Regenboog
+1710;'t Smisje Cuvee 2005;hogegisting;10%;Brouwerij De Regenboog
+1711;'t Smisje Dubbel;hogegisting;9%;Brouwerij De Regenboog
+1712;'t Smisje Fiori;hogegisting;7%;Brouwerij De Regenboog
+1713;'t Smisje Grande Reserva;hogegisting;11%;Brouwerij De Regenboog
+1714;'t Smisje Great Reserva;hogegisting;10%;Brouwerij De Regenboog
+1715;'t Smisje Halloween;hogegisting;10,5%;Brouwerij De Regenboog
+1716;'t Smisje Honing;honingbier;6%;Brouwerij De Regenboog
+1717;'t Smisje Honingbier Bruin;honingbier;6%;Brouwerij De Regenboog
+1718;'t Smisje Kuvee Elektrik 979 W;hogegisting;9%;Brouwerij De Regenboog
+1719;'t Smisje Meso;hogegisting;2,5%;Brouwerij De Regenboog
+1720;'t Smisje Plus;ipa;10%;Brouwerij De Regenboog
+1721;'t Smisje Sleedoornbier;fruitbier;6%;Brouwerij De Regenboog
+1722;'t Smisje Sleedoorn Extra;fruitbier;7%;Brouwerij De Regenboog
+1723;'t Smisje Speciaal;hogegisting;10,5%;Brouwerij De Regenboog
+1724;'t Smisje Tripel;tripel;9%;Brouwerij De Regenboog
+1725;'t Zelfde;blond;4%;Brouwerij Bosteels
+1726;'t Zwarte Gat Bier;donkerblond;6%;Brouwerij De Regenboog
+1727;Taras Boulba;blond;4,5%;Brouwerij De Ranke
+1728;Tatsevoet;specialebelge;6%;Brouwerij Het Alternatief
+1729;Tempelier;speciaalbier;%;Brouwerij De Sleutel
+1730;Tempelier;speciaalbier;6%;Brasserie du Bocq
+1731;Ter Dolen Armand;blondhoppig;7%;Brouwerij Ter Dolen
+1732;Ter Dolen Blond;blond;6,1%;Kasteelbrouwerij De Dool
+1733;Ter Dolen Donker;bruin;7,1%;Brouwerij Ter Dolen
+1734;Ter Dolen Kriek;fruitbier;4,5%;Brouwerij Ter Dolen
+1735;Ter Dolen Tripel;tripel;8,1%;Brouwerij Ter Dolen
+1736;Ter Dolen Winter;winterbier;9,1%;Brouwerij Ter Dolen
+1737;Terracotta;blond;7%;Brouwerij De Regenboog
+1738;Thouroutenaere;;%;brouwerij Louwaege
+1739;Thouroutenaere;;%;brouwerij Lefebvre
+1740;Thouroutenaere;blond;8,5%;Alken-Maes
+1741;Timmermans Caveau Gueuze;geuze;5,5%;Brouwerij Timmermans
+1742;Timmermans Faro Lambic;faro;4%;Brouwerij Timmermans
+1743;Timmermans Framboise Lambic;fruitbier;4%;Brouwerij Timmermans
+1744;Timmermans Gueuze Lambic;geuze;5%;Brouwerij Timmermans
+1745;Timmermans Kriek Lambic;kriek;4%;Brouwerij Timmermans
+1746;Timmermans Kriek Retro;fruitbier;5%;Brouwerij Timmermans
+1747;Timmermans Lambicus Blanche;witbier;4,5%;Brouwerij Timmermans
+1748;Timmermans Oude Gueuze;lambiek;5,5%;Brouwerij Timmermans
+1749;Timmermans Oude Kriek;kriekenlambiek;5,5%;Brouwerij Timmermans
+1750;Timmermans Pêche Lambic;fruitbier;4%;Brouwerij Timmermans
+1751;Timmermans Strawberry Lambic;fruitbier;4%;Brouwerij Timmermans
+1752;Timmermans Warme Kriek;kriek;4%;Brouwerij Timmermans
+1753;Tineke Van Heule;hogegisting;8%;Brouwerij Gulden Spoor
+1754;Titje;hogegisting,witbier;5%;Brasserie de Silly
+1755;Toetëlèr Amber Tripel;tripel;8,5%;Brouwerij Den Toetëlèr
+1756;Toetëlèr Speculaas;speculaasbier;8,5%;Brouwerij Den Toetëlèr
+1757;Toetëlèr Wit;witbier;5,2%;Brouwerij Den Toetëlèr
+1758;Tongerlo Blond;hogegisting,abdijbier;6%;Brouwerij Haacht
+1759;Tongerlo Bruin;hogegisting,abdijbier;6%;Brouwerij Haacht
+1760;Tongerlo Christmas;hogegisting,abdijbier;6,5%;Brouwerij Haacht
+1761;Tongerlo Prior;hogegisting,abdijbier;8%;Brouwerij Haacht
+1762;Tongerlo Winterbier;hogegisting,abdijbier;7%;Brouwerij Haacht
+1763;Tonneke;hogegisting,amber;5%;Brouwerij Contreras
+1764;Toria Blond;hogegisting;6,5%;Brouwerij De Graal
+1765;Toria Tripel;hogegisting,tripel;8,7%;Brouwerij De Graal voor De Hoevebrouwers
+1766;Totentrekker;amber;5,5%;De Proefbrouwerij
+1767;Tournay;hogegisting;6,7%;Brasserie de Cazeau
+1768;Tournay de Noël;stout,kerstbier;8,2%;Brasserie de Cazeau
+1769;Tournay Noire;stout;7,6%;Brasserie de Cazeau
+1770;Tournée Générale;spécialebelge;6,5%;Brouwerij Duvel Moortgat
+1771;Tournée Générale Tripel Hop;blond,hogegisting;7,5%;Brouwerij Palm
+1772;Toverhekske;amber;5,9%;Brouwerij Walrave
+1773;Trammelantje;amber;6,5%;Brouwerij Strubbe
+1774;Trappieter;amber;6,5%;De Proefbrouwerij
+1775;Tremist;hogegisting,blond;6%;Brouwerij Van Eecke
+1776;Triest Blond;hogegisting;6%;Microbrouwerij Den Triest
+1777;Triest Dubbel;hogegisting;8%;Microbrouwerij Den Triest
+1778;Triest Kriek;witbier,fruitbier;5,2%;Microbrouwerij Den Triest
+1779;Triest Tripel;hogegisting,tripel;7,5%;Microbrouwerij Den Triest
+1780;Triest X-mas;hogegisting,kerstbier;8,5%;Microbrouwerij Den Triest
+1781;Triomfbier Vooruit;amber;6%;Brasserie Dupont
+1782;Tripel Kanunnik;tripel;8,2%;Brouwerij en stokerij Wilderen
+1783;Tripel Karmeliet;tripel;8,4%;Brouwerij Bosteels
+1784;Tripel Klok;tripel;8,5%;Brouwerij Boelens
+1785;Tripel Trezeke;tripel;7,5%;Brouwerij Den Triest
+1786;Triple de Brabant;tripel,blond;8,5%;Groep John Martin
+1787;Triple Jack;paleale;6,1%;Brouwerij Stokhove
+1788;Triple Moine;tripel;7,3%;Brasserie Du Bocq
+1789;Triporteur from Heaven;ale,blond;6,2%;Brouwerij Anders!
+1790;Triporteur from Hell;ale,bruin;6,6%;Brouwerij Anders! voor BOMBrewery
+1791;Trisser;tripel;7,5%;De Proefbrouwerij voor
+1792;Triverius;tarwebier;6,8%;Brouwerij De Graal
+1793;Troubadour Blond;blond;6,5%;De Proefbrouwerij voor
+1794;Troubadour Imperial Stout;imperialstout;9%;De Proefbrouwerij voor Brouwerij The Musketeers
+1795;Troubadour Magma;tripelindiapaleale;9%;De Proefbrouwerij voor Brouwerij The Musketeers
+1796;Troubadour Obscura;stout;8,2%;De Proefbrouwerij voor Brouwerij The Musketeers
+1797;Troubadour Spéciale;specialebelge;5,7%;De Proefbrouwerij voor Brouwerij The Musketeers
+1798;Troublette;witbier;5%;Brasserie Caracole
+1799;TRPL;hogegisting,biologisch,tripel;8%;De Proefbrouwerij
+1800;Tsjeeses;hogegisting,blond;10%;De Struise Brouwers
+1801;Tsjeeses Reserva;hogegisting,goud;10%;De Struise Brouwers
+1802;Tumulus 800;tarwebier;6%;De Proefbrouwerij
+1803;Tumulus Aura;tarwebier;5,5%;De Proefbrouwerij in opdracht van De Kale Ridders
+1804;Tumulus Magna;tarwebier;9%;De Proefbrouwerij in opdracht van De Kale Ridders
+1805;Tumulus Nera;tarwebier;8%;De Proefbrouwerij in opdracht van De Kale Ridders
+1806;Turnhoutse Patriot;saison;6,5%;Scheldebrouwerij
+1807;Tuverbol;gemengdegisting;11%;Brouwerij Loterbol
+1808;Uilenspiegelbier;dubbel;7%;Brouwerij Van Steenberge
+1809;Uitzet 1730;tripel;6,8%;Brouwerij Van Steenberge voor
+1810;Uitzet Kriekbier;fruitbier;7,5%;Brouwerij Van Steenberge voor Brouwerij Paeleman
+1811;Ulricher Extra;pils;5%;Brouwerij Girardin
+1812;Ultra Ambrée;ale,amber,hogegisting;7%;Brasserie d'Ecaussinnes
+1813;Ultra Fraîche;lichtblond;3,5%;Brasserie d'Ecaussinnes
+1814;Ultra Soif;blond,hogegisting;5%;Brasserie d'Ecaussinnes
+1815;Ultramour;fruitbier;5%;Brasserie d'Ecaussinnes
+1816;Ultra Blonde;blond;8%;Brasserie d'Ecaussinnes
+1817;Ultradélice;bruin;8%;Brasserie d'Ecaussinnes
+1818;Ultrabrune;donkerbruin;10%;Brasserie d'Ecaussinnes
+1819;Unkerzak;blond;7%;De Proefbrouwerij
+1820;"Urania ""Daughter of Zeus""";bruin;9,5%;Brouwerij Eutropius
+1821;Urchon;hogegisting;7,5%;Brasserie des Légendes
+1822;Urthel Hop-It;blondeindiapaleale;9,5%;Brouwerij De Koningshoeven
+1823;Urthel Hibernus Quentum;tripel;9%;Brouwerij De Leyerth
+1824;Urthel Novicius Vertus;donkerspeciaalbier;5,9%;Brouwerij Urthel
+1825;Urthel Parlus Magnificum;donkerbruin;7,5%;Brouwerij De Leyerth
+1826;Urthel Saisonnière;blondspeciaalbier;6,0%;Brouwerij De Koningshoeven
+1827;Urthel Samaranth;amberkleurigspeciaalbier,hogegisting;11,5%;Brouwerij De Koningshoeven
+1828;Urthel Vlaemse Bock;donkerbruin;7,5%;Brouwerij De Leyerth
+1829;Urthel Tonicum Finiboldus;amber;7,5%;Brouwerij De Leyerth
+1830;Val-Dieu Blonde;erkendbelgischabdijbier;6%;Brouwerij Val-Dieu
+1831;Val-Dieu Brune;erkendbelgischabdijbier;8%;Brouwerij Val-Dieu
+1832;Val-Dieu Bière de Noël;erkendbelgischabdijbier;7%;Brouwerij Val-Dieu
+1833;Val-Dieu Grand Cru;erkendbelgischabdijbier;10,5%;Brouwerij Val-Dieu
+1834;Val-Dieu Triple;erkendbelgischabdijbier,tripel;9%;Brouwerij Val-Dieu
+1835;Val-Dieu Triple;tripel;%;Brasserie d'Aubel
+1836;Val-Dieu Triple;tripel;9%;Brouwerij Van Honsebroeck
+1837;Valeir Blond;hogegisting,blond;6,5%;Brouwerij Contreras
+1838;Valeir Divers;hogegisting,tripel;8,5%;Brouwerij Contreras
+1839;Valeir Donker;hogegisting;6,5%;Brouwerij Contreras
+1840;Valeir Extra;hogegisting,ipa;6,5%;Brouwerij Contreras
+1841;Vals Paterke;tripel;8,3%;Brouwerij De Graal voor
+1842;Vanderghinste oud bruin;west-vlaamsroodbruin;5,5%;Brouwerij Bockor
+1843;Vapeur cochonne;belgianale;9%;Brasserie à Vapeur
+1844;Vapeur cochonnette;belgianale;9%;Brasserie à Vapeur
+1845;Vapeur en Folie;belgianale;8%;Brasserie à Vapeur
+1846;Vapeur Légère;blond;6%;Brasserie à Vapeur
+1847;Vat 44;geuze;8%;Brouwerij Boon
+1848;Vedett Extra Blond;blond;5,2%;Brouwerij Duvel Moortgat
+1849;Vedett Extra White;witbier;4,7%;Brouwerij Duvel Moortgat
+1850;Vedett Extra ordinary IPA;blond;6%;Brouwerij Duvel Moortgat
+1851;Verhaeghe Pils;pils;5,1%;Brouwerij Verhaeghe
+1852;Vicardin;tripel-gueuze;7%;Brouwerij Dilewyns
+1853;Vicaris 5;hogegisting;5%;Brouwerij Dilewyns
+1854;Vicaris Generaal;hogegisting;8,8%;Brouwerij Dilewyns
+1855;Vicaris Kerst;hogegisting,kerstbier;10%;Brouwerij Dilewyns
+1856;Vicaris Tripel;hogegisting,tripel;8,5%;Brouwerij Dilewyns (vroeger
+1857;Vicaris Tripel Geuze;hogegisting,tripel;%;Brouwerij Dilewyns
+1858;Vicaris Quinto;hogegisting;5%;Brouwerij Dilewyns
+1859;Vicaris Winter;hogegisting,kerstbier;10%;Brouwerij Dilewyns
+1860;Vichtenaar;roodbruineale;5,1%;Brouwerij Verhaeghe
+1861;Vieux Bruges Blanche;etiketbier,witbier;4,5%;Brouwerij Van Honsebrouck
+1862;Vieux Bruges Framboise(s);fruitbier;5 en 4,5%;Brouwerij Van Honsebrouck
+1863;Vieux Bruges Gueuze;geuze;5%;Brouwerij Van Honsebrouck
+1864;Vieux Bruges Kriek;etiketbier;3,2%;Brouwerij Van Honsebrouck
+1865;Vieux Bruges Kriek Lambic;etiketbier;5%;Brouwerij Van Honsebrouck
+1866;Vieux Bruges Peche;fruitbier;3,5%;Brouwerij Van Honsebrouck
+1867;Vieux Bruxelles Gueuze;etiketbier;5%;Brouwerij Van Honsebrouck
+1868;Vieux Bruxelles Kriek;etiketbier;4%;Brouwerij Van Honsebrouck
+1869;Vieux Temps;specialebelge;5,2%;AB Inbev
+1870;Villers Tripel;abdijbier,tripel;8%;Brouwerij Huyghe
+1871;Villers Vieille;abdijbier;7%;Brouwerij Huyghe
+1872;Vigneronne;fruitbier,lambiek;6%;Brouwerij Cantillon
+1873;Vinkenier;streekbier;10,8%;Brouwerij Eutropius
+1874;Viven Ale;specialebelge;5%;De Proefbrouwerij
+1875;Viven Blond;blond;6,1%;De Proefbrouwerij voor Beerdevelopment Viven
+1876;Viven Bruin;dubbel;6,1%;De Proefbrouwerij voor Beerdevelopment Viven
+1877;Viven Imperial IPA;imperialipa;8%;De Proefbrouwerij voor Beerdevelopment Viven
+1878;Viven Porter;smokedporter;7%;De Proefbrouwerij voor Beerdevelopment Viven
+1879;Vlaamsch Wit;witbier;4,5%;Brouwerij Van Honsebrouck
+1880;Vlaamsche Leeuw Blondje;blond;5,5%;Brouwerij Van Steenberge
+1881;Vlaamsche Leeuw Donker;bruin;7,5%;Brouwerij Van Steenberge voor De Brouwerij van Vlaanderen
+1882;Vlaamsche Leeuw Tripel;tripel;8,5%;Brouwerij Van Steenberge voor De Brouwerij van Vlaanderen
+1883;Vlasbier;blond;6,5%;Brouwerij Van Eecke
+1884;Vlaskapelle;vlaamsroodbruin;5%;Brouwerij Gulden Spoor
+1885;Vlaskop;witbier;5,5%;Brouwerij Strubbe
+1886;Vleteren Alt;aledonker;8%;Brouwerij Deca
+1887;Vleteren Bruin;donkereale;8%;Brouwerij Deca
+1888;Vleteren Super 8 Blond;blond;8%;Brouwerij Deca
+1889;Vondel;donkerbruin;8,5%;Brouwerij Liefmans
+1890;Vossen met de Meynen Blond;etiketbier;6,5%;Brouwerij Het Anker
+1891;Vossen met de Meynen 69;hogegisting,blond;6,9%;Brouwerij Hof ten Dormaal
+1892;Vurig Bierreke;tripel;11,5%;Brouwerij DijkWaert
+1893;Vuuve;witbier;5%;Brouwerij De Regenboog
+1894;Waardams Blond;blond;6,1%;Brouwerij Stokhove
+1895;Waardamse Dubbel;bruin;7%;Brouwerij Stokhove
+1896;Waardamse Tripel;tripel;8,6%;Brouwerij Stokhove
+1897;Waas Klok Bier Bruin;donker;8,5%;Brouwerij Boelens
+1898;Waas Klok Bier Tripel;tripel;8,5%;Brouwerij Boelens
+1899;Waase Wolf;amber;6%;Brouwerij Boelens
+1900;Waaslander;witbier;5%;Brouwerij Boelens
+1901;Waterloo Tripel 7 Blond;blond;;Brasserie du Marché
+1902;Waterloo Double 8 Dark;bruin;8,5%;Brasserie Du Bocq
+1903;Waterloo Tripel 7 Blond;blond;7,5%;Brasserie Du Bocq
+1904;Watneys Scotch Ale;scotch;8%;Brouwerij Union
+1905;Watou Tripel;tripel;7,5%;Brouwerij St. Bernardus
+1906;Watou's Wit;witbier;5%;Brouwerij Van Eecke
+1907;Wechelse Tripel;etiketbier;7,5%;Brouwerij St. Bernardus voor
+1908;West Pils;pils;5%;Brouwerij Het Sas
+1909;Westmalle Dubbel;trappist;7%;Brouwerij Westmalle
+1910;Westmalle Tripel;trappist;9,5%;Brouwerij Westmalle
+1911;Westmalle Extra;trappist;4,8%;Brouwerij Westmalle
+1912;Westoek X;hogegisting;6%;De Struise Brouwers
+1913;Westoek XX;hogegisting;8%;De Struise Brouwers
+1914;Westvleteren Blond;trappist;5,8%;Sint-Sixtusabdij van Westvleteren
+1915;Westvleteren Zes;trappist;6,2%;Sint-Sixtusabdij van Westvleteren
+1916;Westvleteren Acht;trappist;8%;Sint-Sixtusabdij van Westvleteren
+1917;Westvleteren Twaalf;trappist;10,2%;Sint-Sixtusabdij van Westvleteren
+1918;Wevelgemse Tripel;tripel;8%;Brouwerij De Ranke
+1919;White by Mystic;witbier;5,1%;Brouwerij Haacht
+1920;Wieze Christmas Tripel Hop;tripelkerstbier;8%;Brouwerij Wieze
+1921;Wieze Pils;pils;%;Brouwerij Van Roy
+1922;Wieze Tripel;tripel;8%;Brouwerij Roman
+1923;Wieze Tripel Blond;tripel;8%;Brouwerij Wieze
+1924;Wieze Tripel zoet Bruin;tripel;8%;Brouwerij Wieze
+1925;Wildebok;hogegisting,bockbier;6,5%;De Scheldebrouwerij
+1926;Wilderen Goud;hogegisting;6,2%;Brouwerij Wilderen
+1927;Wilderen Kriek;kriek;3,5%;Brouwerij Wilderen
+1928;Wilderen Cuvee Clarisse;roodbier;9,2%;Brouwerij Wilderen
+1929;Wild Jo;blond,metwildegisten;5,8%;Brouwerij De Koninck
+1930;Willy Kriegelbier;donkerblond;7%;Huisbrouwerij Sint Canarus
+1931;Winter Zjef;winterbier;9%;Brouwerij 't Paenhuys
+1932;Winterkoninck;robijnrood;6,5%;Brouwerij De Koninck
+1933;Winterkoninkske;hogegisting;8,3%;Brouwerij Sint-Jozef
+1934;Winterkoninkske Haspengouwse Grand Cru;hogegisting,kerstbier;13%;Brouwerij Sint-Jozef voor brouwerij Kerkom
+1935;Wintersnood;winterbier;6,4%;‘t Hofbrouwerijke
+1936;Witbier Haacht;witbier;5,1%;Brouwerij Haacht
+1937;Wit Goud;hogegisting;8%;Brouwerij Hof ten Dormaal
+1938;Witheer;witbier;6,2%;Scheldebrouwerij
+1939;Witheer;witbier;5%;Scheldebrouwerij
+1940;Witkap Pater Dubbel;hogegisting,bruin;7%;Brouwerij Slaghmuylder
+1941;Witkap Pater Special;hogegisting,amber;5,5%;Brouwerij Slagmuylder
+1942;Witkap Pater Stimulo;hogegisting,blond;6%;Brouwerij Slaghmuylder
+1943;Witkap Pater Tripel;hogegisting,tripel;7,5%;Brouwerij Slagmuylder
+1944;Wittekerke;witbier;5%;Brouwerij Bavik
+1945;Wittekerke Passion;witbier,fruitbier;5,8%;Brouwerij Bavik
+1946;Wittekerke Rosé;witbier,fruitbier;4,3%;Brouwerij Bavik
+1947;Wittekerke Special;witbier;5,8%;Brouwerij Bavik
+1948;Witte Madam;hogegisting,amber;8,5%;Scheldebrouwerij Hoogstraten
+1949;Witte Pol;witbier;5,6%;Brouwerij Inter-Pol
+1950;Wittoen;hogegisting,tripel;7%;Brouwerij Strubbe
+1951;Wolf 6;blond;6,9%;Brouwerij Lupus
+1952;Wolf 7;blond;7,4%;Brouwerij Lupus
+1953;Wolf 8;donkerbruin;8,5%;Brouwerij Lupus
+1954;Wolf 9;amber;9%;Brouwerij Lupus
+1955;Wolf Carte Blanche;blond;8,5%;Brouwerij Lupus
+1956;Wolf Black;;5,6%;Brouwerij Lupus
+1957;Wostyntje;mosterdbier;7%;Brouwerij De Regenboog
+1958;Xenophon's Wine;;11%;De Struise Brouwers
+1959;X-Mas Beer;hogegisting,blond;8,5%;Brouwerij Contreras
+1960;XX Bitter;hogegisting,blond;6,2%;Brouwerij De Ranke
+1961;XXX Bitter;hogegisting,blond;6%;Brouwerij De Ranke
+1962;Yperman;ale;5,5%;Brouwerij Het Sas
+1963;Yellow Mortal;ale;7,2%;Brouwerij Mortal's Beers
+1964;Zatte Bie;donker;9%;Brouwerij De Bie
+1965;Zeezuiper;goudblondetripel;8%;De Scheldebrouwerij
+1966;Zennenat;hogegisting;6,0%;Brouwerij Den Herberg
+1967;Zeunt;hogegisting;7%;De Proefbrouwerij
+1968;Zeven Zonden Gula;hogegisting;9%;Brouwerij Gulden Spoor
+1969;Zeven Zonden Invidia;hogegisting;10%;Brouwerij Gulden Spoor voor bierfirma Hugel
+1970;Zeven Zonden Luxuria;hogegisting;8,5%;Brouwerij Gulden Spoor voor bierfirma Hugel
+1971;Zingende Blondine;hogegisting;9,8%;Brouwerij 't Gaverhopke
+1972;Zinnebir;blond;5,8%;Brouwerij De Ranke
+1973;Zoeg;pils;5%;brouwerij Pieraerts
+1974;Zoeg;pils;5%;Brouwerij De Vlier
+1975;ZoemZoem;amber,honingbier;8%;Brouwerij Donum Ignis
+1976;Zomer Zjef;stout;9%;Brouwerij 't Paenhuys
+1977;Zonderik 100;blond,hogegisting;7%;De Proefbrouwerij
+1978;Zonderik Dubbel Donker;hogegisting;8%;De Proefbrouwerij voor Zonderik Beer Company
+1979;Zonderik Tripel;blond,tripel;8%;De Proefbrouwerij voor Zonderik Beer Company
+1980;Zonderix;amber,tripel;10%;De Proefbrouwerij voor Zonderik Beer Company
+1981;Zonnegemse Zot;amber;7,1%;De Proefbrouwerij
+1982;Zotte Bloare;bruin;5,5%;Brouwerij 't Paenhuys
+1983;Zottegemse Grand Cru;amber;8,4%;Brouwerij Strubbe
+1984;ZUIDerbierke;hogegisting,bruinrood;8,2%;Brouwerij Donum Ignis
+1985;Zulte;hogegisting,lichtbruin;4,7%;Alken-Maes
+1986;Zwalmse Tripel;tripel;8%;De Proefbrouwerij
+1987;Zwarte Piet;bovengisting;8%;Zennebrouwerij
+1988;Zwarte Piet;bruin;8,5%;Brouwerij Boelens
+1989;Zwarte Pol;stout;6,5%;Brouwerij Inter-Pol
+1990;Zwarte Zjef;stout;9%;Brouwerij 't Paenhuys
+1991;Zwet.be;stout;7%;De Proefbrouwerij voor
+1992;Zwijntje;blond(etiketbier);8%;Brouwerij Bios

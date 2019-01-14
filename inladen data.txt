@@ -1,0 +1,15 @@
+LOAD CSV WITH HEADERS FROM 'file:///Bieren.csv' AS csvLine FIELDTERMINATOR ',' 
+MERGE (brouwerij:Brouwerij { name: csvLine.Brouwerij })
+CREATE (bier:Bier { name: csvLine.Bier, alcohol: csvLine.Alcohol})
+CREATE (bier)-[:`Gebrouwen door`]->(brouwerij)
+
+USING PERIODIC COMMIT 200
+LOAD CSV WITH HEADERS FROM 'file:///Bieren.csv' AS line FIELDTERMINATOR ';' 
+WITH line where not line.Brouwerij is null
+WITH line where not line.Soort is null
+WITH line where not line.Alcohol is null
+MERGE (brouwerij:Brouwerij { name: line.Brouwerij })
+MERGE (soort: Soort {name: line.Soort})
+CREATE (bier:Bier { name: line.Bier, alcohol: line.Alcohol})
+CREATE (bier)-[:`Gebrouwen door`]->(brouwerij)
+CREATE (bier)-[:`is een`]->(soort)
