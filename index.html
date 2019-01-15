@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Beerless - Beer Data</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<link rel="stylesheet" href="style.css">
+<style>
+
+</style>
+    </head>
+    <body>
+	<div class="container">
+        <h1>Bierenkiezeeeerrr</h1>
+		
+		<form>
+		  <div class="form-group">
+			<label for="naam">Naam</label>
+			<input type="text" class="form-control" id="naam" placeholder="Naam" name="naam">
+		  </div>
+		  <div class="form-group">
+			<input type="text" class="form-control" id="zoek" placeholder="Zoek" name="zoek" onkeyup="filter()">
+			<select size="5" id="bieren" class="custom-select">
+			</select>
+		</div>
+		  
+		  <div class="form-group">
+			<label for="bier">Bier</label>
+			<input type="text" class="form-control" id="bier" disabled placeholder="Bier" name="bier">
+			</div>
+		  <div class="form-group">
+			<label for="score">Score: </label>
+			<input type="number" class="form-control" id="score" step="0.1">
+		  </div>
+		</form>
+		
+			<button class="btn btn-accent" id="button2">Stem</button>
+		<button class="btn btn-primary" id="button">Stel bieren voor</button>
+		
+		<table id="reco" class="table">
+		</table>
+	</div>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+
+var string = "MATCH (n:Bier) Return (n)";
+	console.log(naam);
+	$.ajax
+({
+  type: "POST",
+  url: "http://beerless.hopto.org:7474/db/data/cypher",
+  dataType: 'json',
+  headers: {
+    "Authorization": "Basic " + btoa("NeilVDB" + ":" + "123456"),
+  },
+	data: {
+	"query" : string
+	},
+  success: function (json){
+    data2 = json.data;
+	$.each(data2, function (data){
+		$.each(data2[data], function(data3){
+			bieren.push(data2[data][data3]["data"]["name"]);
+			console.log("push" + data2[data][data3]["data"]["name"]);
+			$("#bieren").append('<option value="' + data2[data][data3]["data"]["name"] + '">' + data2[data][data3]["data"]["name"] + '</option>');
+		});
+	});
+	
+	vuloptions(bieren);
+	
+	
+  }
+});
+
+
+$("#zoek").on("keyup", function(){
+	var tezoekn = $("#zoek").val().toLowerCase();
+	var bierenZoek = [];
+	$.each(bieren, function(data){
+		if(bieren[data].toLowerCase().match(tezoekn)){
+			bierenZoek.push(bieren[data]);
+		}
+	});
+vuloptions(bierenZoek);
+});
+
+
+var bieren = [];
+
+$('#bieren').change(function(){
+	$("#bier").val($( "#bieren option:selected" ).text());})
+
+//reco
+$("#button").click(function(){
+var naam = $("#naam").val();
+var string = 'MATCH (u:User {name: ' +'"'+ naam + '"'+ '})-[r:Likes]->(b:Bier),  (b)-[:`is een`]->(s:Soort)<-[:`is een`]-(rec:Bier) WHERE NOT EXISTS( (u)-[:Likes]->(rec)) AND r.score > 5 WITH rec, [s.name, COUNT(*)] AS scores RETURN rec.id AS recommendation, rec.name AS name, rec.alcohol AS alcohol, COLLECT(scores) AS scoreComponents, REDUCE (p=0,x in COLLECT(scores) | p+x[1]) AS score ORDER BY score DESC LIMIT 5';
+
+	console.log(naam);
+	$.ajax
+({
+  type: "POST",
+  url: "http://beerless.hopto.org:7474/db/data/cypher",
+  dataType: 'json',
+  headers: {
+    "Authorization": "Basic " + btoa("NeilVDB" + ":" + "123456"),
+  },
+	data: {
+	"query" : string
+	},
+  success: function (json){
+    data2 = json.data; 
+	console.log(data2);
+	$('#reco').html("");
+	var teller = 1;
+	$("#reco").append("<tr><th>TOP</th><th>Naam</th><th>Alcohol</th><th>Score</th></tr>");
+	$.each(data2, function (data){
+		$('#reco').append("<tr><td>"+ teller + "</td><td>" + data2[data][1] + "</td><td>" + data2[data][2] + "</td><td>" + data2[data][4] + "</td></tr>");
+		console.log(data);
+		teller ++;
+	});
+	
+  }
+});
+});
+
+
+
+function vuloptions(options){
+	$("#bieren").html("");
+	$.each(options, function(index){
+	$("#bieren").append('<option value="' + options[index] + '">' + options[index] + '</option>');
+	});
+}
+
+
+
+//STEM
+$("#button2").click(function(){
+
+var bier = $('#bier').val();
+var naam = $('#naam').val();
+var score = $('#score').val();
+
+var insert = 'MATCH (b:Bier{name:"' + bier + '"})' +
+' MERGE (user:User{name:"'+ naam +'"})' +
+' MERGE (user)-[:Likes{score: '+score+ '}]->(b)';
+
+$.ajax
+({
+  type: "POST",
+  url: "http://beerless.hopto.org:7474/db/data/cypher",
+  dataType: 'json',
+  contenttype: 'application/json',
+  accept: 'application/json',
+  headers: {
+    "Authorization": "Basic " + btoa("NeilVDB" + ":" + "123456"),
+  },
+	data: {
+	"query" : insert
+	},
+  success: function (json){
+		console.log(json);
+	
+  }
+});
+
+});
+
+
+});
+</script>
+
+<script>
+</script>
+    </body>
+</html>

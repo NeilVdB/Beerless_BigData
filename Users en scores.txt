@@ -1,0 +1,61 @@
+//TestDATA TIJMEN
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Arend Tripel"})
+MERGE (user:User{name:"Tijmen"})
+MERGE (user)-[:Likes{score:7.5}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Arend Dubbel"})
+MERGE (user:User{name:"Tijmen"})
+MERGE (user)-[:Likes{score:7.0}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Barbãr"})
+MERGE (user:User{name:"Tijmen"})
+MERGE (user)-[:Likes{score:8.5}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Gouden Carolus Tripel"})
+MERGE (user:User{name:"Tijmen"})
+MERGE (user)-[:Likes{score:6.5}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Westvleteren Twaalf"})
+MERGE (user:User{name:"Tijmen"})
+MERGE (user)-[:Likes{score:8.5}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Gouden Carolus Cuvée van de Keizer Whisky Infused"})
+MERGE (user:User{name:"Tijmen"})
+MERGE (user)-[:Likes{score:9.0}]->(b)
+
+//TESTDATA Neil
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Wolf Carte Blanche"})
+MERGE (user:User{name:"Neil"})
+MERGE (user)-[:Likes{score:9.0}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Jupiler"})
+MERGE (user:User{name:"Neil"})
+MERGE (user)-[:Likes{score:6.5}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Barbãr"})
+MERGE (user:User{name:"Neil"})
+MERGE (user)-[:Likes{score:7.5}]->(b)
+
+//BIER SELECTEREN + USER aanmaken/zoeken
+MATCH (b:Bier{name:"Gouden Carolus Tripel"})
+MERGE (user:User{name:"Neil"})
+MERGE (user)-[:Likes{score:8.5}]->(b)
+
+
+
+var bier = "";
+var naam = "";
+var score = "";
+
+string insert = 'MATCH (b:Bier{name:"' + bier + '"})' +
+'MERGE (user:User{name:"'+ naam +'"})' +
+'MERGE (user)-[:Likes{score: '+score+ '}]->(b)';

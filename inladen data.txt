@@ -3,6 +3,7 @@ MERGE (brouwerij:Brouwerij { name: csvLine.Brouwerij })
 CREATE (bier:Bier { name: csvLine.Bier, alcohol: csvLine.Alcohol})
 CREATE (bier)-[:`Gebrouwen door`]->(brouwerij)
 
+//2
 USING PERIODIC COMMIT 200
 LOAD CSV WITH HEADERS FROM 'file:///Bieren.csv' AS line FIELDTERMINATOR ';' 
 WITH line where not line.Brouwerij is null
@@ -13,3 +14,31 @@ MERGE (soort: Soort {name: line.Soort})
 CREATE (bier:Bier { name: line.Bier, alcohol: line.Alcohol})
 CREATE (bier)-[:`Gebrouwen door`]->(brouwerij)
 CREATE (bier)-[:`is een`]->(soort)
+
+//versie 3
+USING PERIODIC COMMIT 200
+LOAD CSV WITH HEADERS FROM 'file:///Bieren.csv' AS line FIELDTERMINATOR ';' 
+WITH line where not line.Brouwerij is null
+WITH line where not line.Soort is null
+WITH line where not line.Alcohol is null
+WITH line, split(line.Soort, ",") AS soorten 
+ UNWIND soorten AS soort1  
+MERGE (brouwerij:Brouwerij { name: line.Brouwerij })
+MERGE (soort: Soort {name: soort1})
+MERGE (bier:Bier { name: line.Bier, alcohol: line.Alcohol})
+CREATE (bier)-[:`Gebrouwen door`]->(brouwerij)
+CREATE (bier)-[:`is een`]->(soort)
+
+//versie 4
+USING PERIODIC COMMIT 200
+LOAD CSV WITH HEADERS FROM 'file:///Bieren.csv' AS line FIELDTERMINATOR ';' 
+WITH line where not line.Brouwerij is null
+WITH line where not line.Soort is null
+WITH line where not line.Alcohol is null
+WITH line, split(line.Soort, ",") AS soorten 
+ UNWIND soorten AS soort1  
+MERGE (brouwerij:Brouwerij { name: line.Brouwerij })
+MERGE (soort: Soort {name: soort1})
+MERGE (bier:Bier { name: line.Bier, alcohol: line.Alcohol id:line.Id})
+MERGE (bier)-[:`Gebrouwen door`]->(brouwerij)
+MERGE (bier)-[:`is een`]->(soort)
